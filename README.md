@@ -3,4 +3,4 @@ Data analytics project exploring correlations between rainfall, tourism, and coa
 
 ## Dashboard Preview
 
-![Dashboard Preview](RainfallvEnetrococcus.png)
+![Dashboard Preview](RainfallvEnterococcus.png)
