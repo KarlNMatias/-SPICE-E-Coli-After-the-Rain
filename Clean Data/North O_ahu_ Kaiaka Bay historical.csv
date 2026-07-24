@@ -1,0 +1,299 @@
+sample id,data entry author,state,lab id,lab name,collection date,collection time (Pacific/Honolulu),stored collectionTime,tested by,site id,site name,latitude,longitude,water temperature (f),air temperature (f),current weather,recent precipitation,tide,wave height,wind speed (mph),wind direction,Enterococcus modifier,Enterococcus (mpn/100mL),Ecoli modifier,Ecoli (mpn/100mL),Total Coliform modifier,Total Coliform (mpn/100mL),comments,pH,Salinity (PSU),Turbidity (NTU),Ammonia/NH3 (ppm),Nitrates/NO3 (mg/L),Nitrites/NO2 (mg/L),Nitrogen(NO3+NO2) (mg/L),Phosphate (mg/L),Dissolved Oxygen (mg/L),publication time
+be7363ad-94a8-4cce-9db7-04643fcab41d,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/1/2025,7:30:00 AM,2025-06-01T17:30:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,73,Sunny,FALSE,incoming,<1 ft,7,E,=,52,,,,,,,,,,,,,,,2025-06-03T02:14:10.844Z
+07b9f540-3161-4106-ad92-54195cd873a8,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/20/2025,7:02:00 AM,2025-04-20T17:02:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,71,Partly_Cloudy,TRUE,incoming,<1 ft,16,E,=,414,,,,,,,,,,,,,,,2025-04-22T01:43:19.742Z
+ddcd1b0d-3302-42ce-b24e-55aa522c440c,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/6/2025,7:42:00 AM,2025-04-06T17:42:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,71,Overcast,TRUE,incoming,<1 ft,15,NE,=,1236,,,,,,,,,,,,,,,2025-04-08T02:19:06.321Z
+39799b6e-e07d-4612-8d3a-41f90a7d6915,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/23/2025,7:30:00 AM,2025-03-23T17:30:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,70,Sunny,TRUE,incoming,<1 ft,3,SE,=,201,,,,,,,,,,,,,,,2025-03-25T05:32:53.499Z
+4e5b0283-022c-43f7-b5a5-a3f4cfbc3d5e,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/9/2025,7:00:00 AM,2025-03-09T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,72,67,Overcast,TRUE,outgoing,<1 ft,16,NE,<,10,,,,,,,,,,,,,,,2025-03-11T01:53:50.143Z
+7e8c05c9-4e7a-4e10-b435-53affa1047d1,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/23/2025,7:15:00 AM,2025-02-23T17:15:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,69,Partly_Cloudy,TRUE,outgoing,<1 ft,4,NE,=,73,,,,,,,,,,,,,,,2025-02-25T03:11:37.238Z
+a10e8a58-f80f-47fd-9e58-6c3bae7d56b7,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/9/2025,7:46:00 AM,2025-02-09T17:46:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,64.4,Sunny,TRUE,outgoing,<1 ft,4,SE,=,132,,,,,,,,,,,,,,,2025-02-11T02:35:53.579Z
+4384c5ac-3bef-4d19-8ae8-007f32254153,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,1/26/2025,7:00:00 AM,2025-01-26T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,71.6,Partly_Cloudy,TRUE,outgoing,<1 ft,14,NE,=,31,,,,,,,,,,,,,,,2025-01-28T05:43:33.397Z
+cb92c08d-c497-4717-891a-525f0f0aced5,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,1/12/2025,7:00:00 AM,2025-01-12T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,68,Partly_Cloudy,FALSE,outgoing,<1 ft,14,NE,=,211,,,,,,,,,,,,,,,2025-01-14T08:08:41.534Z
+fcde08ba-db09-4659-a4fc-86055f86c3d0,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,12/1/2024,7:46:00 AM,2024-12-01T17:46:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,68,78.8,Sunny,FALSE,outgoing,<1 ft,8,E,=,97,,,,,,,,,,,,,,,2024-12-03T02:38:06.064Z
+06797fe9-50f0-4ab6-919b-97ffb3172435,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,11/17/2024,7:32:00 AM,2024-11-17T17:32:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,78.8,Partly_Cloudy,TRUE,outgoing,<1 ft,23,NE,=,350,,,,,,,,,,,,,,,2024-11-19T06:04:19.926Z
+69686122-95fe-45ab-ac44-542fe97c7b5c,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,11/3/2024,9:08:00 AM,2024-11-03T19:08:00.000Z,Christina,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,,Sunny,FALSE,outgoing,1-2 ft,5,E,=,63,,,,,"
+",,,,,,,,,,2024-11-05T07:07:14.361Z
+9d768060-9b02-4682-9586-b5989e58d533,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/20/2024,7:45:00 AM,2024-10-20T17:45:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,72,Partly_Cloudy,TRUE,outgoing,<1 ft,18,E,=,63,,,,,,,,,,,,,,,2024-10-22T21:35:39.074Z
+84700ab8-2e9c-4f05-b558-eab506c2d103,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/6/2024,5:10:00 AM,2024-10-06T15:10:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,73,Partly_Cloudy,FALSE,outgoing,<1 ft,17,,=,3873,,,,,,,,,,,,,,,2024-10-07T23:53:09.320Z
+b07c27b4-b19a-42f3-9c0b-bfaa16542b42,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,9/22/2024,5:15:00 AM,2024-09-22T15:15:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,74,Partly_Cloudy,FALSE,incoming,<1 ft,21,E,=,727,,,,,,,,,,,,,,,2024-09-24T05:28:22.549Z
+ea4fe5a1-a56c-44a3-91f4-539f1f3feb9e,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/28/2024,8:45:00 AM,2024-07-28T18:45:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,,Partly_Cloudy,TRUE,incoming,<1 ft,15,NE,=,10,,,,,,,,,,,,,,,2024-07-30T04:34:07.023Z
+221b18bd-379b-49be-9fce-dd3ed53b1466,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/14/2024,5:45:00 AM,2024-07-14T15:45:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,77,Partly_Cloudy,FALSE,incoming,<1 ft,20,NE,=,51,,,,,,,,,,,,,,,2024-07-16T08:33:23.760Z
+06387dbf-f1ad-4f40-ad8b-32e309f29948,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/30/2024,8:20:00 AM,2024-06-30T18:20:00.000Z,Christina,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,,Sunny,FALSE,incoming,<1 ft,5,E,=,10,,,,,,,,,,,,,,,2024-07-02T08:26:19.045Z
+1b138a1c-6e06-4c90-aa97-1b269350289b,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/21/2024,8:00:00 AM,2024-04-21T18:00:00.000Z,Christina,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,70,Partly_Cloudy,FALSE,incoming,<1 ft,13,NE,=,98,,,,,,,,,,,,,,,2024-04-23T08:20:27.461Z
+9b984758-501f-4bdf-9479-c2669cda7b46,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/7/2024,7:00:00 AM,2024-04-07T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,68,Light_Rain,TRUE,outgoing,<1 ft,24,E,=,199,,,,,,,,,,,,,,,2024-04-09T04:02:46.420Z
+c23caed6-c105-4912-b25c-68ad7a0681f2,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/24/2024,6:50:00 AM,2024-03-24T16:50:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,66,Overcast,TRUE,outgoing,<1 ft,20,E,=,1081,,,,,,,,,,,,,,,2024-03-26T08:11:58.328Z
+7b1be115-f845-405d-a228-2fef16e7da33,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/25/2024,7:25:00 AM,2024-02-25T17:25:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,68.8,64.9,,TRUE,outgoing,<1 ft,23,E,=,309,,,,,,,,,,,,,,,2024-02-27T08:59:19.084Z
+e8f45ecb-4325-4931-855f-a7610920da81,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/11/2024,7:42:00 AM,2024-02-11T17:42:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,64.4,Partly_Cloudy,FALSE,outgoing,<1 ft,4.6,SE,=,122,,,,,,,,,,,,,,,2024-02-13T08:24:16.364Z
+a438b6b3-ad4f-4c86-8f97-f9a36024925a,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/14/2024,6:50:00 AM,2024-01-14T16:50:00.000Z,Fernando Pacheco,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,60,Sunny,FALSE,outgoing,<1 ft,4,SE,=,305,,,,,,,,,,,,,,,2024-01-16T04:31:42.691Z
+4a4bf881-8659-41a4-8f43-df2476987ae5,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/10/2023,7:00:00 AM,2023-12-10T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,70,Partly_Cloudy,FALSE,outgoing,<1 ft,6,E,=,96,,,,,,,,,,,,,,,2023-12-12T00:07:07.213Z
+5c8ea6a9-27b5-4cd6-8f7e-825401fb6eb2,Google_117941694820731963023,Hawaii,44,Oʻahu,11/26/2023,6:30:00 AM,2023-11-26T16:30:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,71.6,Partly_Cloudy,TRUE,outgoing,<1 ft,7,E,=,1076,,,,,,,,,,,,,,,2023-11-28T00:12:54.802Z
+c2fc3d7e-8053-40b2-9185-fe2e6b138f47,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/29/2023,7:00:00 AM,2023-10-29T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,71,81,Partly_Cloudy,FALSE,outgoing,<1 ft,2,SE,=,10,,,,,,,,,,,,,,,2023-10-31T01:14:02.611Z
+a0848535-df3a-4995-97cd-14617b8c8f2e,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/15/2023,7:15:00 AM,2023-10-15T17:15:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,81,77,Sunny,FALSE,outgoing,1-2 ft,6,E,=,20,,,,,,,,,,,,,,,2023-10-17T03:22:01.944Z
+34186155-18ea-4b96-9b76-127945ff9233,Google_117941694820731963023,Hawaii,44,Oʻahu,10/1/2023,7:08:00 AM,2023-10-01T17:08:00.000Z,Christian Squire,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80.6,73.4,Sunny,FALSE,outgoing,<1 ft,19,E,<,10,,,,,,,,,,,,,,,2023-10-03T00:31:16.573Z
+c90ba391-f9c6-467d-9056-9f223a1925d4,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/3/2023,8:40:00 AM,2023-09-03T18:40:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,78,Sunny,TRUE,incoming,<1 ft,14,NE,<,10,,,,,,,,,,,,,,,2023-09-04T23:22:31.745Z
+743fa28c-9d92-417d-899b-16420b99cd6b,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/20/2023,9:00:00 AM,2023-08-20T19:00:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,74,Sunny,FALSE,outgoing,<1 ft,12,,<,10,,,,,,,,,,,,,,,2023-08-22T00:45:54.561Z
+2840427a-6e28-42b7-9f57-e894c896702d,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,8/6/2023,8:45:00 AM,2023-08-06T18:45:00.000Z,Christina C,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,,Sunny,FALSE,outgoing,<1 ft,5,NE,=,60,,,,,,,,,,,,,,,2023-08-08T05:29:44.222Z
+2dd511ed-0c6d-4ca0-951f-1c8848a1fceb,Google_117941694820731963023,Hawaii,44,Oʻahu,7/23/2023,8:05:00 AM,2023-07-23T18:05:00.000Z,Christian Squire,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,73.4,78.8,Overcast,TRUE,outgoing,<1 ft,12,NE,=,52,,,,,,,,,,,,,,,2023-07-25T00:43:12.506Z
+41c62572-a7bc-4d04-be25-79498ae41463,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/9/2023,8:07:00 AM,2023-07-09T18:07:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,69.8,Sunny,TRUE,incoming,<1 ft,23,NE,=,10,,,,,Surfline,,,,,,,,,,2023-07-11T07:57:20.937Z
+5957ae53-fda7-42a5-bb37-99e0906def89,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/25/2023,8:02:00 AM,2023-06-25T18:02:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,69.8,Sunny,TRUE,incoming,<1 ft,20,NE,<,10,,,,,Surfline,,,,,,,,,,2023-06-27T09:04:03.131Z
+78b44d9b-6629-49d3-b553-653540236905,Google_117941694820731963023,Hawaii,44,Oʻahu,6/11/2023,8:10:00 AM,2023-06-11T18:10:00.000Z,Chris Garcia,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,72,Sunny,TRUE,incoming,<1 ft,19,E,=,119,,,,,,,,,,,,,,,2023-06-13T00:53:02.357Z
+901070ec-0837-4e44-8708-9500c1b695c0,Google_107796448582146466088,Hawaii,44,Oʻahu,5/28/2023,8:15:00 AM,2023-05-28T18:15:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,74,Sunny,FALSE,low,<1 ft,9,E,=,10,,,,,"incoming, low tide. ",,,,,,,,,,2023-05-30T07:40:05.292Z
+52b35867-e556-49ff-aa5f-c80563201eba,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/14/2023,7:55:00 AM,2023-05-14T17:55:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,67,Sunny,TRUE,incoming,<1 ft,12,NE,=,379,,,,,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,2023-05-16T03:55:24.362Z
+5e055c34-e0c7-49ff-b07a-d676e75fd361,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/30/2023,7:55:00 AM,2023-04-30T17:55:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,Sunny,TRUE,incoming,<1 ft,15,NE,=,657,,,,,Bike race.  Hundreds of cars and people,,,,,,,,,,2023-05-02T00:15:28.865Z
+60020b1b-f418-4be2-900a-927153658df0,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/16/2023,8:15:00 AM,2023-04-16T18:15:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,Sunny,TRUE,incoming,<1 ft,4,,=,20,,,,,,,,,,,,,,,2023-04-18T01:06:39.083Z
+4ec91d56-599f-408f-935f-ad7c4a748e38,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/2/2023,8:15:00 AM,2023-04-02T18:15:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,Overcast,FALSE,incoming,<1 ft,6,SE,=,9804,,,,,,,,,,,,,,,2023-04-03T23:40:19.283Z
+e2b89873-27df-48b7-bd61-73ea1710e566,Google_107796448582146466088,Hawaii,44,Oʻahu,3/19/2023,9:00:00 AM,2023-03-19T19:00:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,75,Partly_Cloudy,FALSE,low,<1 ft,5,S,=,41,,,,,"incoming, low tide",,,,,,,,,,2023-03-21T08:40:57.244Z
+7b721495-3ffa-443d-a542-c7384a54ba32,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,3/5/2023,7:31:00 AM,2023-03-05T17:31:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,75,64,Sunny,TRUE,low,<1 ft,6,E,=,279,,,,,,,,,,,,,,,2023-03-07T07:36:32.450Z
+9a046bb5-8383-4c82-9989-43f056d1cb66,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,2/19/2023,8:20:00 AM,2023-02-19T18:20:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,66,Partly_Cloudy,TRUE,outgoing,<1 ft,3,E,=,9606,,,,,,,,,,,,,,,2023-02-21T04:40:09.377Z
+0f6c6b34-7d84-4861-bea4-798914bc2708,Google_107796448582146466088,Hawaii,44,Oʻahu,2/5/2023,8:00:00 AM,2023-02-05T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,,TRUE,low,,13,E,>,24196,,,,,"outgoing, low tide",,,,,,,,,,2023-02-07T07:06:50.548Z
+838f00b5-e58c-4940-9f2f-ba61975c00d4,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/8/2023,8:00:00 AM,2023-01-08T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,64,Sunny,FALSE,outgoing,<1 ft,6,NE,<,10,,,,,,,36.4,,,,,,,,2023-01-10T02:10:06.596Z
+268af55a-7128-405d-aaf4-24322c6d820c,Google_107796448582146466088,Hawaii,44,Oʻahu,12/11/2022,8:20:00 AM,2022-12-11T18:20:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,70,Overcast,TRUE,outgoing,<1 ft,13,NE,=,171,,,,,"outgoing, medium tide
+",,35.6,,,,,,,,2022-12-13T07:46:13.669Z
+71814906-6c72-4063-9d6e-1bb4e156c19f,Google_107796448582146466088,Hawaii,44,Oʻahu,11/27/2022,8:00:00 AM,2022-11-27T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,65,Partly_Cloudy,TRUE,high,<1 ft,4,E,<,10,,,,,"
+outgoing, high tide.  ",,37.2,,,,,,,,2022-11-29T07:34:02.573Z
+58887158-2bd6-49e8-b39a-988a0c7f212e,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/13/2022,8:00:00 AM,2022-11-13T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80,68,Overcast,TRUE,high,<1 ft,13,NE,=,573.0,,,,,,,36.7,,,,,,,,2022-11-15T05:17:32.057Z
+a008a88a-8a33-4b8c-851d-3d15fa0d2036,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/30/2022,8:00:00 AM,2022-10-30T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80,71,Partly_Cloudy,TRUE,high,1-2 ft,13,NE,=,323.0,,,,,,,36.4,,,,,,,,2022-11-01T01:21:16.924Z
+7ce3917f-7376-44a2-b79f-89cb245327fe,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/16/2022,7:55:00 AM,2022-10-16T17:55:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80,71,Partly_Cloudy,TRUE,high,<1 ft,9,NE,=,10.0,,,,,,,36.3,,,,,,,,2022-10-18T02:31:02.738Z
+18694c45-f5b0-4bba-98d7-7f65f7572285,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/2/2022,7:40:00 AM,2022-10-02T17:40:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80,72,Overcast,TRUE,high,1-2 ft,9,NE,=,84.0,,,,,,,36.4,,,,,,,,2022-10-04T02:48:28.703Z
+72adfa0d-586f-4a6b-8498-47d4de35f527,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/18/2022,7:51:00 AM,2022-09-18T17:51:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,81,74,Partly_Cloudy,FALSE,high,<1 ft,14,E,=,10,,,,,,,35.1,,,,,,,,2022-09-20T20:00:53.340Z
+81e20965-5f80-4b6b-a1b4-fa4e4cbe4b61,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/21/2022,8:05:00 AM,2022-08-21T18:05:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,81,73,Sunny,FALSE,incoming,<1 ft,11,NE,<,10,,,,,,,35.3,,,,,,,,2022-08-23T02:05:06.833Z
+fe360bdb-712a-43fe-b8ea-64625e50defa,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,7/24/2022,7:50:00 AM,2022-07-24T17:50:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,69,Partly_Cloudy,TRUE,incoming,<1 ft,14,E,=,146.0,,,,,,,33.5,,,,,,,,2022-07-26T02:17:09.406Z
+246df0f1-44e4-45e4-8194-282c830b7fe7,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,7/10/2022,8:50:00 AM,2022-07-10T18:50:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,70,78,Partly_Cloudy,TRUE,incoming,<1 ft,12,NE,=,8164.0,,,,,,,33.5,,,,,,,,2022-07-12T02:39:17.652Z
+86f0b3fa-7d0c-483d-994c-cf7c50fddcca,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/26/2022,8:00:00 AM,2022-06-26T18:00:00.000Z,Fernando ,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,68,Sunny,TRUE,low,<1 ft,7,E,=,10,,,,,,,32.8,,,,,,,,2022-06-28T04:10:57.509Z
+e29dfb7a-d6f6-4776-ba17-c1a512021b1f,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/12/2022,9:00:00 AM,2022-06-12T19:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,70,Sunny,FALSE,incoming,<1 ft,17,E,<,10,,,,,,,33.4,,,,,,,,2022-06-14T02:41:59.336Z
+6dd7e7d8-e2ec-4310-848f-9c2f87b18294,Google_107796448582146466088,Hawaii,44,Oʻahu,5/29/2022,8:50:00 AM,2022-05-29T18:50:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,81,Overcast,TRUE,low,<1 ft,3,E,=,10,,,,,"Incoming, low tide.  Very low tide, stagnant.",,29.5,,,,,,,,2022-05-31T07:49:30.352Z
+1db12dfd-53c0-4144-a4bb-b5f7e07798d1,Google_107796448582146466088,Hawaii,44,Oʻahu,5/15/2022,7:41:00 AM,2022-05-15T17:41:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,70,Sunny,FALSE,low,<1 ft,5,E,<,10,,,,,"Six people fishing around. Incoming low tide
+",,34.1,,,,,,,,2022-05-17T00:43:24.694Z
+fd124b42-f73d-4057-b2dd-4874d156b660,Google_107796448582146466088,Hawaii,44,Oʻahu,5/1/2022,7:40:00 AM,2022-05-01T17:40:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,69,Overcast,TRUE,low,<1 ft,16,NE,=,97,,,,,"outgoing, low tide.  ",,31.6,,,,,,,,2022-05-03T08:12:06.315Z
+fecdb386-df6f-4b29-8b2a-6eb82935b748,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/18/2022,9:00:00 AM,2022-04-18T19:00:00.000Z,Fernando Pacheug,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,68,Sunny,TRUE,low,<1 ft,18,NE,=,52,,,,,,,32.5,,,,,,,,2022-04-18T23:59:07.630Z
+f3337b23-02cb-4ac5-8a88-4b05dff537d8,Google_107796448582146466088,Hawaii,44,Oʻahu,4/3/2022,7:35:00 AM,2022-04-03T17:35:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,Sunny,TRUE,outgoing,1-2 ft,16,E,=,169,,,,,"outgoing, medium tide. ",,33.4,,,,,,,,2022-04-05T06:55:47.505Z
+bb8c0b67-2c6a-4565-8f95-9ba3fa5f7a62,Google_107796448582146466088,Hawaii,44,Oʻahu,3/6/2022,8:00:00 AM,2022-03-06T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,62,,FALSE,outgoing,<1 ft,3,E,=,10,,,,,"outgoing, medium tide",,33.9,,,,,,,,2022-03-08T08:30:32.712Z
+d793e5f0-0258-4e40-b4a0-a56c1430a269,Google_107796448582146466088,Hawaii,44,Oʻahu,2/20/2022,7:55:00 AM,2022-02-20T17:55:00.000Z,Fernando C. Pacheco,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,65,Light_Rain,FALSE,outgoing,<1 ft,5,NE,=,228,,,,,"outgoing, medium tide",,30.6,,,,,,,,2022-02-22T07:24:20.087Z
+f7b845b0-8d31-4351-b3ac-6911e92b036f,Google_107796448582146466088,Hawaii,44,Oʻahu,2/6/2022,7:10:00 AM,2022-02-06T17:10:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,66,Partly_Cloudy,FALSE,outgoing,1-2 ft,9,NE,=,41,,,,,"outgoing, medium tide",,36.4,,,,,,,,2022-02-08T07:34:07.404Z
+d0aa19cc-8d8c-4f16-92da-e9c3553d805d,Google_107796448582146466088,Hawaii,44,Oʻahu,1/23/2022,8:40:00 AM,2022-01-23T18:40:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,66,Sunny,FALSE,high,1-2 ft,7,NE,=,20.,,,,,,,35.7,,,,,,,,2022-01-25T07:11:26.019Z
+58bd39e8-442e-49c8-98ce-44a42aaf7011,Google_107796448582146466088,Hawaii,44,Oʻahu,1/9/2022,8:50:00 AM,2022-01-09T18:50:00.000Z,Amy Kelley,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,75,72,Sunny,FALSE,high,1-2 ft,3,,=,598.,,,,,"incoming, high tide.  Brown.  Too much debris.   New KAPU sign. ",,32.2,,,,,,,,2022-01-11T07:21:51.406Z
+da3b396f-454f-447f-b36e-6183483165ce,Google_107796448582146466088,Hawaii,44,Oʻahu,12/26/2021,8:45:00 AM,2021-12-26T18:45:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,75,70,Sunny,TRUE,high,,10,E,=,299,,,,,"outgoing, high tide. ",,29.1,,,,,,,,2021-12-28T06:11:16.647Z
+a5fb9a7d-29e5-43c7-994b-9657c81220f1,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/12/2021,9:00:00 AM,2021-12-12T19:00:00.000Z,Christina C,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,72,Partly_Cloudy,TRUE,incoming,<1 ft,10,NE,=,5247,,,,,Water Very Brown,,33.5,,,,,,,,2021-12-16T06:09:42.030Z
+be7363ad-94a8-4cce-9db7-04643fcab41d,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/1/2025,7:30:00 AM,2025-06-01T17:30:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,73,Sunny,FALSE,incoming,<1 ft,7,E,=,52,,,,,,,,,,,,,,,2025-06-03T02:14:10.844Z
+07b9f540-3161-4106-ad92-54195cd873a8,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/20/2025,7:02:00 AM,2025-04-20T17:02:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,71,Partly_Cloudy,TRUE,incoming,<1 ft,16,E,=,414,,,,,,,,,,,,,,,2025-04-22T01:43:19.742Z
+ddcd1b0d-3302-42ce-b24e-55aa522c440c,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/6/2025,7:42:00 AM,2025-04-06T17:42:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,71,Overcast,TRUE,incoming,<1 ft,15,NE,=,1236,,,,,,,,,,,,,,,2025-04-08T02:19:06.321Z
+39799b6e-e07d-4612-8d3a-41f90a7d6915,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/23/2025,7:30:00 AM,2025-03-23T17:30:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,70,Sunny,TRUE,incoming,<1 ft,3,SE,=,201,,,,,,,,,,,,,,,2025-03-25T05:32:53.499Z
+4e5b0283-022c-43f7-b5a5-a3f4cfbc3d5e,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/9/2025,7:00:00 AM,2025-03-09T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,72,67,Overcast,TRUE,outgoing,<1 ft,16,NE,<,10,,,,,,,,,,,,,,,2025-03-11T01:53:50.143Z
+7e8c05c9-4e7a-4e10-b435-53affa1047d1,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/23/2025,7:15:00 AM,2025-02-23T17:15:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,69,Partly_Cloudy,TRUE,outgoing,<1 ft,4,NE,=,73,,,,,,,,,,,,,,,2025-02-25T03:11:37.238Z
+a10e8a58-f80f-47fd-9e58-6c3bae7d56b7,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/9/2025,7:46:00 AM,2025-02-09T17:46:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,64.4,Sunny,TRUE,outgoing,<1 ft,4,SE,=,132,,,,,,,,,,,,,,,2025-02-11T02:35:53.579Z
+4384c5ac-3bef-4d19-8ae8-007f32254153,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,1/26/2025,7:00:00 AM,2025-01-26T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,71.6,Partly_Cloudy,TRUE,outgoing,<1 ft,14,NE,=,31,,,,,,,,,,,,,,,2025-01-28T05:43:33.397Z
+cb92c08d-c497-4717-891a-525f0f0aced5,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,1/12/2025,7:00:00 AM,2025-01-12T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,68,Partly_Cloudy,FALSE,outgoing,<1 ft,14,NE,=,211,,,,,,,,,,,,,,,2025-01-14T08:08:41.534Z
+fcde08ba-db09-4659-a4fc-86055f86c3d0,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,12/1/2024,7:46:00 AM,2024-12-01T17:46:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,68,78.8,Sunny,FALSE,outgoing,<1 ft,8,E,=,97,,,,,,,,,,,,,,,2024-12-03T02:38:06.064Z
+06797fe9-50f0-4ab6-919b-97ffb3172435,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,11/17/2024,7:32:00 AM,2024-11-17T17:32:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,78.8,Partly_Cloudy,TRUE,outgoing,<1 ft,23,NE,=,350,,,,,,,,,,,,,,,2024-11-19T06:04:19.926Z
+69686122-95fe-45ab-ac44-542fe97c7b5c,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,11/3/2024,9:08:00 AM,2024-11-03T19:08:00.000Z,Christina,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,,Sunny,FALSE,outgoing,1-2 ft,5,E,=,63,,,,,"
+",,,,,,,,,,2024-11-05T07:07:14.361Z
+9d768060-9b02-4682-9586-b5989e58d533,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/20/2024,7:45:00 AM,2024-10-20T17:45:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,72,Partly_Cloudy,TRUE,outgoing,<1 ft,18,E,=,63,,,,,,,,,,,,,,,2024-10-22T21:35:39.074Z
+84700ab8-2e9c-4f05-b558-eab506c2d103,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/6/2024,5:10:00 AM,2024-10-06T15:10:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,73,Partly_Cloudy,FALSE,outgoing,<1 ft,17,,=,3873,,,,,,,,,,,,,,,2024-10-07T23:53:09.320Z
+b07c27b4-b19a-42f3-9c0b-bfaa16542b42,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,9/22/2024,5:15:00 AM,2024-09-22T15:15:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,74,Partly_Cloudy,FALSE,incoming,<1 ft,21,E,=,727,,,,,,,,,,,,,,,2024-09-24T05:28:22.549Z
+ea4fe5a1-a56c-44a3-91f4-539f1f3feb9e,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/28/2024,8:45:00 AM,2024-07-28T18:45:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,,Partly_Cloudy,TRUE,incoming,<1 ft,15,NE,=,10,,,,,,,,,,,,,,,2024-07-30T04:34:07.023Z
+221b18bd-379b-49be-9fce-dd3ed53b1466,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/14/2024,5:45:00 AM,2024-07-14T15:45:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,77,Partly_Cloudy,FALSE,incoming,<1 ft,20,NE,=,51,,,,,,,,,,,,,,,2024-07-16T08:33:23.760Z
+06387dbf-f1ad-4f40-ad8b-32e309f29948,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/30/2024,8:20:00 AM,2024-06-30T18:20:00.000Z,Christina,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,,Sunny,FALSE,incoming,<1 ft,5,E,=,10,,,,,,,,,,,,,,,2024-07-02T08:26:19.045Z
+1b138a1c-6e06-4c90-aa97-1b269350289b,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/21/2024,8:00:00 AM,2024-04-21T18:00:00.000Z,Christina,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,70,Partly_Cloudy,FALSE,incoming,<1 ft,13,NE,=,98,,,,,,,,,,,,,,,2024-04-23T08:20:27.461Z
+9b984758-501f-4bdf-9479-c2669cda7b46,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/7/2024,7:00:00 AM,2024-04-07T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,68,Light_Rain,TRUE,outgoing,<1 ft,24,E,=,199,,,,,,,,,,,,,,,2024-04-09T04:02:46.420Z
+c23caed6-c105-4912-b25c-68ad7a0681f2,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/24/2024,6:50:00 AM,2024-03-24T16:50:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,66,Overcast,TRUE,outgoing,<1 ft,20,E,=,1081,,,,,,,,,,,,,,,2024-03-26T08:11:58.328Z
+7b1be115-f845-405d-a228-2fef16e7da33,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/25/2024,7:25:00 AM,2024-02-25T17:25:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,68.8,64.9,,TRUE,outgoing,<1 ft,23,E,=,309,,,,,,,,,,,,,,,2024-02-27T08:59:19.084Z
+e8f45ecb-4325-4931-855f-a7610920da81,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/11/2024,7:42:00 AM,2024-02-11T17:42:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,64.4,Partly_Cloudy,FALSE,outgoing,<1 ft,4.6,SE,=,122,,,,,,,,,,,,,,,2024-02-13T08:24:16.364Z
+a438b6b3-ad4f-4c86-8f97-f9a36024925a,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/14/2024,6:50:00 AM,2024-01-14T16:50:00.000Z,Fernando Pacheco,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,60,Sunny,FALSE,outgoing,<1 ft,4,SE,=,305,,,,,,,,,,,,,,,2024-01-16T04:31:42.691Z
+4a4bf881-8659-41a4-8f43-df2476987ae5,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/10/2023,7:00:00 AM,2023-12-10T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,70,Partly_Cloudy,FALSE,outgoing,<1 ft,6,E,=,96,,,,,,,,,,,,,,,2023-12-12T00:07:07.213Z
+5c8ea6a9-27b5-4cd6-8f7e-825401fb6eb2,Google_117941694820731963023,Hawaii,44,Oʻahu,11/26/2023,6:30:00 AM,2023-11-26T16:30:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,71.6,Partly_Cloudy,TRUE,outgoing,<1 ft,7,E,=,1076,,,,,,,,,,,,,,,2023-11-28T00:12:54.802Z
+c2fc3d7e-8053-40b2-9185-fe2e6b138f47,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/29/2023,7:00:00 AM,2023-10-29T17:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,71,81,Partly_Cloudy,FALSE,outgoing,<1 ft,2,SE,=,10,,,,,,,,,,,,,,,2023-10-31T01:14:02.611Z
+a0848535-df3a-4995-97cd-14617b8c8f2e,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/15/2023,7:15:00 AM,2023-10-15T17:15:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,81,77,Sunny,FALSE,outgoing,1-2 ft,6,E,=,20,,,,,,,,,,,,,,,2023-10-17T03:22:01.944Z
+34186155-18ea-4b96-9b76-127945ff9233,Google_117941694820731963023,Hawaii,44,Oʻahu,10/1/2023,7:08:00 AM,2023-10-01T17:08:00.000Z,Christian Squire,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80.6,73.4,Sunny,FALSE,outgoing,<1 ft,19,E,<,10,,,,,,,,,,,,,,,2023-10-03T00:31:16.573Z
+c90ba391-f9c6-467d-9056-9f223a1925d4,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/3/2023,8:40:00 AM,2023-09-03T18:40:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,78,Sunny,TRUE,incoming,<1 ft,14,NE,<,10,,,,,,,,,,,,,,,2023-09-04T23:22:31.745Z
+743fa28c-9d92-417d-899b-16420b99cd6b,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/20/2023,9:00:00 AM,2023-08-20T19:00:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,74,Sunny,FALSE,outgoing,<1 ft,12,,<,10,,,,,,,,,,,,,,,2023-08-22T00:45:54.561Z
+2840427a-6e28-42b7-9f57-e894c896702d,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,8/6/2023,8:45:00 AM,2023-08-06T18:45:00.000Z,Christina C,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,,Sunny,FALSE,outgoing,<1 ft,5,NE,=,60,,,,,,,,,,,,,,,2023-08-08T05:29:44.222Z
+2dd511ed-0c6d-4ca0-951f-1c8848a1fceb,Google_117941694820731963023,Hawaii,44,Oʻahu,7/23/2023,8:05:00 AM,2023-07-23T18:05:00.000Z,Christian Squire,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,73.4,78.8,Overcast,TRUE,outgoing,<1 ft,12,NE,=,52,,,,,,,,,,,,,,,2023-07-25T00:43:12.506Z
+41c62572-a7bc-4d04-be25-79498ae41463,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/9/2023,8:07:00 AM,2023-07-09T18:07:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,69.8,Sunny,TRUE,incoming,<1 ft,23,NE,=,10,,,,,Surfline,,,,,,,,,,2023-07-11T07:57:20.937Z
+5957ae53-fda7-42a5-bb37-99e0906def89,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/25/2023,8:02:00 AM,2023-06-25T18:02:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78.8,69.8,Sunny,TRUE,incoming,<1 ft,20,NE,<,10,,,,,Surfline,,,,,,,,,,2023-06-27T09:04:03.131Z
+78b44d9b-6629-49d3-b553-653540236905,Google_117941694820731963023,Hawaii,44,Oʻahu,6/11/2023,8:10:00 AM,2023-06-11T18:10:00.000Z,Chris Garcia,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,72,Sunny,TRUE,incoming,<1 ft,19,E,=,119,,,,,,,,,,,,,,,2023-06-13T00:53:02.357Z
+901070ec-0837-4e44-8708-9500c1b695c0,Google_107796448582146466088,Hawaii,44,Oʻahu,5/28/2023,8:15:00 AM,2023-05-28T18:15:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,74,Sunny,FALSE,low,<1 ft,9,E,=,10,,,,,"incoming, low tide. ",,,,,,,,,,2023-05-30T07:40:05.292Z
+52b35867-e556-49ff-aa5f-c80563201eba,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/14/2023,7:55:00 AM,2023-05-14T17:55:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,67,Sunny,TRUE,incoming,<1 ft,12,NE,=,379,,,,,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,2023-05-16T03:55:24.362Z
+5e055c34-e0c7-49ff-b07a-d676e75fd361,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/30/2023,7:55:00 AM,2023-04-30T17:55:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,Sunny,TRUE,incoming,<1 ft,15,NE,=,657,,,,,Bike race.  Hundreds of cars and people,,,,,,,,,,2023-05-02T00:15:28.865Z
+60020b1b-f418-4be2-900a-927153658df0,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/16/2023,8:15:00 AM,2023-04-16T18:15:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,Sunny,TRUE,incoming,<1 ft,4,,=,20,,,,,,,,,,,,,,,2023-04-18T01:06:39.083Z
+4ec91d56-599f-408f-935f-ad7c4a748e38,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/2/2023,8:15:00 AM,2023-04-02T18:15:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,Overcast,FALSE,incoming,<1 ft,6,SE,=,9804,,,,,,,,,,,,,,,2023-04-03T23:40:19.283Z
+e2b89873-27df-48b7-bd61-73ea1710e566,Google_107796448582146466088,Hawaii,44,Oʻahu,3/19/2023,9:00:00 AM,2023-03-19T19:00:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,75,Partly_Cloudy,FALSE,low,<1 ft,5,S,=,41,,,,,"incoming, low tide",,,,,,,,,,2023-03-21T08:40:57.244Z
+7b721495-3ffa-443d-a542-c7384a54ba32,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,3/5/2023,7:31:00 AM,2023-03-05T17:31:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,75,64,Sunny,TRUE,low,<1 ft,6,E,=,279,,,,,,,,,,,,,,,2023-03-07T07:36:32.450Z
+9a046bb5-8383-4c82-9989-43f056d1cb66,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,2/19/2023,8:20:00 AM,2023-02-19T18:20:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,66,Partly_Cloudy,TRUE,outgoing,<1 ft,3,E,=,9606,,,,,,,,,,,,,,,2023-02-21T04:40:09.377Z
+0f6c6b34-7d84-4861-bea4-798914bc2708,Google_107796448582146466088,Hawaii,44,Oʻahu,2/5/2023,8:00:00 AM,2023-02-05T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,,TRUE,low,,13,E,>,24196,,,,,"outgoing, low tide",,,,,,,,,,2023-02-07T07:06:50.548Z
+838f00b5-e58c-4940-9f2f-ba61975c00d4,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/8/2023,8:00:00 AM,2023-01-08T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,64,Sunny,FALSE,outgoing,<1 ft,6,NE,<,10,,,,,,,36.4,,,,,,,,2023-01-10T02:10:06.596Z
+268af55a-7128-405d-aaf4-24322c6d820c,Google_107796448582146466088,Hawaii,44,Oʻahu,12/11/2022,8:20:00 AM,2022-12-11T18:20:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,70,Overcast,TRUE,outgoing,<1 ft,13,NE,=,171,,,,,"outgoing, medium tide
+",,35.6,,,,,,,,2022-12-13T07:46:13.669Z
+71814906-6c72-4063-9d6e-1bb4e156c19f,Google_107796448582146466088,Hawaii,44,Oʻahu,11/27/2022,8:00:00 AM,2022-11-27T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,65,Partly_Cloudy,TRUE,high,<1 ft,4,E,<,10,,,,,"
+outgoing, high tide.  ",,37.2,,,,,,,,2022-11-29T07:34:02.573Z
+58887158-2bd6-49e8-b39a-988a0c7f212e,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/13/2022,8:00:00 AM,2022-11-13T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80,68,Overcast,TRUE,high,<1 ft,13,NE,=,573.0,,,,,,,36.7,,,,,,,,2022-11-15T05:17:32.057Z
+a008a88a-8a33-4b8c-851d-3d15fa0d2036,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/30/2022,8:00:00 AM,2022-10-30T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80,71,Partly_Cloudy,TRUE,high,1-2 ft,13,NE,=,323.0,,,,,,,36.4,,,,,,,,2022-11-01T01:21:16.924Z
+7ce3917f-7376-44a2-b79f-89cb245327fe,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/16/2022,7:55:00 AM,2022-10-16T17:55:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80,71,Partly_Cloudy,TRUE,high,<1 ft,9,NE,=,10.0,,,,,,,36.3,,,,,,,,2022-10-18T02:31:02.738Z
+18694c45-f5b0-4bba-98d7-7f65f7572285,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/2/2022,7:40:00 AM,2022-10-02T17:40:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,80,72,Overcast,TRUE,high,1-2 ft,9,NE,=,84.0,,,,,,,36.4,,,,,,,,2022-10-04T02:48:28.703Z
+72adfa0d-586f-4a6b-8498-47d4de35f527,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/18/2022,7:51:00 AM,2022-09-18T17:51:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,81,74,Partly_Cloudy,FALSE,high,<1 ft,14,E,=,10,,,,,,,35.1,,,,,,,,2022-09-20T20:00:53.340Z
+81e20965-5f80-4b6b-a1b4-fa4e4cbe4b61,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/21/2022,8:05:00 AM,2022-08-21T18:05:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,81,73,Sunny,FALSE,incoming,<1 ft,11,NE,<,10,,,,,,,35.3,,,,,,,,2022-08-23T02:05:06.833Z
+fe360bdb-712a-43fe-b8ea-64625e50defa,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,7/24/2022,7:50:00 AM,2022-07-24T17:50:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,79,69,Partly_Cloudy,TRUE,incoming,<1 ft,14,E,=,146.0,,,,,,,33.5,,,,,,,,2022-07-26T02:17:09.406Z
+246df0f1-44e4-45e4-8194-282c830b7fe7,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,7/10/2022,8:50:00 AM,2022-07-10T18:50:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,70,78,Partly_Cloudy,TRUE,incoming,<1 ft,12,NE,=,8164.0,,,,,,,33.5,,,,,,,,2022-07-12T02:39:17.652Z
+86f0b3fa-7d0c-483d-994c-cf7c50fddcca,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/26/2022,8:00:00 AM,2022-06-26T18:00:00.000Z,Fernando ,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,68,Sunny,TRUE,low,<1 ft,7,E,=,10,,,,,,,32.8,,,,,,,,2022-06-28T04:10:57.509Z
+e29dfb7a-d6f6-4776-ba17-c1a512021b1f,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/12/2022,9:00:00 AM,2022-06-12T19:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,70,Sunny,FALSE,incoming,<1 ft,17,E,<,10,,,,,,,33.4,,,,,,,,2022-06-14T02:41:59.336Z
+6dd7e7d8-e2ec-4310-848f-9c2f87b18294,Google_107796448582146466088,Hawaii,44,Oʻahu,5/29/2022,8:50:00 AM,2022-05-29T18:50:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,81,Overcast,TRUE,low,<1 ft,3,E,=,10,,,,,"Incoming, low tide.  Very low tide, stagnant.",,29.5,,,,,,,,2022-05-31T07:49:30.352Z
+1db12dfd-53c0-4144-a4bb-b5f7e07798d1,Google_107796448582146466088,Hawaii,44,Oʻahu,5/15/2022,7:41:00 AM,2022-05-15T17:41:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,70,Sunny,FALSE,low,<1 ft,5,E,<,10,,,,,"Six people fishing around. Incoming low tide
+",,34.1,,,,,,,,2022-05-17T00:43:24.694Z
+fd124b42-f73d-4057-b2dd-4874d156b660,Google_107796448582146466088,Hawaii,44,Oʻahu,5/1/2022,7:40:00 AM,2022-05-01T17:40:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,69,Overcast,TRUE,low,<1 ft,16,NE,=,97,,,,,"outgoing, low tide.  ",,31.6,,,,,,,,2022-05-03T08:12:06.315Z
+fecdb386-df6f-4b29-8b2a-6eb82935b748,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/18/2022,9:00:00 AM,2022-04-18T19:00:00.000Z,Fernando Pacheug,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,78,68,Sunny,TRUE,low,<1 ft,18,NE,=,52,,,,,,,32.5,,,,,,,,2022-04-18T23:59:07.630Z
+f3337b23-02cb-4ac5-8a88-4b05dff537d8,Google_107796448582146466088,Hawaii,44,Oʻahu,4/3/2022,7:35:00 AM,2022-04-03T17:35:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,68,Sunny,TRUE,outgoing,1-2 ft,16,E,=,169,,,,,"outgoing, medium tide. ",,33.4,,,,,,,,2022-04-05T06:55:47.505Z
+bb8c0b67-2c6a-4565-8f95-9ba3fa5f7a62,Google_107796448582146466088,Hawaii,44,Oʻahu,3/6/2022,8:00:00 AM,2022-03-06T18:00:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,62,,FALSE,outgoing,<1 ft,3,E,=,10,,,,,"outgoing, medium tide",,33.9,,,,,,,,2022-03-08T08:30:32.712Z
+d793e5f0-0258-4e40-b4a0-a56c1430a269,Google_107796448582146466088,Hawaii,44,Oʻahu,2/20/2022,7:55:00 AM,2022-02-20T17:55:00.000Z,Fernando C. Pacheco,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,,65,Light_Rain,FALSE,outgoing,<1 ft,5,NE,=,228,,,,,"outgoing, medium tide",,30.6,,,,,,,,2022-02-22T07:24:20.087Z
+f7b845b0-8d31-4351-b3ac-6911e92b036f,Google_107796448582146466088,Hawaii,44,Oʻahu,2/6/2022,7:10:00 AM,2022-02-06T17:10:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,76,66,Partly_Cloudy,FALSE,outgoing,1-2 ft,9,NE,=,41,,,,,"outgoing, medium tide",,36.4,,,,,,,,2022-02-08T07:34:07.404Z
+d0aa19cc-8d8c-4f16-92da-e9c3553d805d,Google_107796448582146466088,Hawaii,44,Oʻahu,1/23/2022,8:40:00 AM,2022-01-23T18:40:00.000Z,Fernando,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,66,Sunny,FALSE,high,1-2 ft,7,NE,=,20.,,,,,,,35.7,,,,,,,,2022-01-25T07:11:26.019Z
+58bd39e8-442e-49c8-98ce-44a42aaf7011,Google_107796448582146466088,Hawaii,44,Oʻahu,1/9/2022,8:50:00 AM,2022-01-09T18:50:00.000Z,Amy Kelley,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,75,72,Sunny,FALSE,high,1-2 ft,3,,=,598.,,,,,"incoming, high tide.  Brown.  Too much debris.   New KAPU sign. ",,32.2,,,,,,,,2022-01-11T07:21:51.406Z
+da3b396f-454f-447f-b36e-6183483165ce,Google_107796448582146466088,Hawaii,44,Oʻahu,12/26/2021,8:45:00 AM,2021-12-26T18:45:00.000Z,Christina Comfort,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,75,70,Sunny,TRUE,high,,10,E,=,299,,,,,"outgoing, high tide. ",,29.1,,,,,,,,2021-12-28T06:11:16.647Z
+a5fb9a7d-29e5-43c7-994b-9657c81220f1,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/12/2021,9:00:00 AM,2021-12-12T19:00:00.000Z,Christina C,1197,North Oʻahu: Kaiaka Bay,21.5902778,-158.1191667,77,72,Partly_Cloudy,TRUE,incoming,<1 ft,10,NE,=,5247,,,,,Water Very Brown,,33.5,,,,,,,,2021-12-16T06:09:42.030Z

@@ -1,0 +1,277 @@
+sample id,data entry author,state,lab id,lab name,collection date,collection time (Pacific/Honolulu),stored collectionTime,tested by,site id,site name,latitude,longitude,water temperature (f),air temperature (f),current weather,recent precipitation,tide,wave height,wind speed (mph),wind direction,Enterococcus modifier,Enterococcus (mpn/100mL),Ecoli modifier,Ecoli (mpn/100mL),Total Coliform modifier,Total Coliform (mpn/100mL),comments,pH,Salinity (PSU),Turbidity (NTU),Ammonia/NH3 (ppm),Nitrates/NO3 (mg/L),Nitrites/NO2 (mg/L),Nitrogen(NO3+NO2) (mg/L),Phosphate (mg/L),Dissolved Oxygen (mg/L),publication time
+624b6a7c-ccbe-4221-9af4-cabdbf36a736,Google_118187667963709316099,Hawaii,44,Oʻahu,5/28/2025,6:10:00 AM,2025-05-28T16:10:00.000Z,Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,70,70,,FALSE,outgoing,1-2 ft,,SW,=,341,,,,,City recently remoed all encampments. Trash remains in and around water,,,,,,,,,,2025-05-30T10:14:11.009Z
+3154f65d-f4fd-41d6-bdc3-450d6bdf6d31,Google_118187667963709316099,Hawaii,44,Oʻahu,5/14/2025,5:40:00 AM,2025-05-14T15:40:00.000Z,Joseph Simpliciano,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,72,Overcast,FALSE,outgoing,2-4 ft,,E,=,187,,,,,Trash in water ,,,,,,,,,,2025-05-15T21:49:15.849Z
+89efd6b9-ed7e-4b72-a85c-2598ed757300,Google_118187667963709316099,Hawaii,44,Oʻahu,4/30/2025,6:15:00 AM,2025-04-30T16:15:00.000Z,Joseph Simpliciano,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,71,Partly_Cloudy,FALSE,outgoing,1-2 ft,,E,=,7270,,,,,"3 encampments, water is brown. Able to see school of mullet. Shopping carts and strollers in canal. Filthy! ",,,,,,,,,,2025-05-01T22:14:23.311Z
+62594b96-2d8a-4ed4-8a22-ac58a513d1df,Google_118187667963709316099,Hawaii,44,Oʻahu,3/5/2025,9:35:00 AM,2025-03-05T19:35:00.000Z,Carmen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,76,Sunny,FALSE,outgoing,1-2 ft,14,NE,=,1565,,,,,,,,,,,,,,,2025-03-06T23:57:49.877Z
+3ae4192a-9151-47bc-9e5b-0657e81c29d7,Google_118187667963709316099,Hawaii,44,Oʻahu,2/5/2025,8:55:00 AM,2025-02-05T18:55:00.000Z,Pat Louie,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,73,Sunny,FALSE,outgoing,1-2 ft,,NE,=,298,,,,,"lots of fish, debris",,,,,,,,,,2025-02-06T20:58:37.037Z
+7091464f-7f2d-4cdf-9094-44d34a063333,Google_118187667963709316099,Hawaii,44,Oʻahu,1/22/2025,9:39:00 AM,2025-01-22T19:39:00.000Z,Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,72,Light_Rain,TRUE,incoming,1-2 ft,9,NW,=,748,,,,,,,,,,,,,,,2025-01-23T21:40:23.635Z
+5026c20e-a08a-4d8e-901e-e522d66a778d,Google_118187667963709316099,Hawaii,44,Oʻahu,1/8/2025,9:38:00 AM,2025-01-08T19:38:00.000Z,Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,76,Light_Rain,TRUE,incoming,2-4 ft,,S,=,437,,,,,,,,,,,,,,,2025-01-09T21:44:16.447Z
+aed0ec68-b1a1-4d6c-8552-958dd9eaf624,Google_118187667963709316099,Hawaii,44,Oʻahu,12/11/2024,10:19:00 AM,2024-12-11T20:19:00.000Z,Carmen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,76,Partly_Cloudy,TRUE,outgoing,1-2 ft,13,NE,=,122,,,,,,,,,,,,,,,2024-12-12T22:09:06.147Z
+8c5a82b6-3153-4dcb-b081-99f363337e9f,Google_118187667963709316099,Hawaii,44,Oʻahu,11/25/2024,10:19:00 AM,2024-11-25T20:19:00.000Z,Carmen ,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,75,Sunny,FALSE,incoming,1-2 ft,1,NE,=,62,,,,,"Debris, brown water and household trash",,,,,,,,,,2024-12-02T17:48:09.934Z
+fff5815a-d3b4-46d8-be27-714aa48bc99d,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/7/2024,9:00:00 AM,2024-11-07T19:00:00.000Z,Carmen G.,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,80,74,Sunny,FALSE,outgoing,1-2 ft,13,NE,=,281,,,,,Trash and houseless set-up in storm drain.  School of mullet. Clear,,,,,,,,,,2024-11-15T23:44:58.747Z
+bb3d9e2b-0c13-45d9-bede-be0291f6b5b8,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/14/2024,9:00:00 AM,2024-10-14T19:00:00.000Z,Pat Louie,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,78,Overcast,TRUE,incoming,2-4 ft,7,E,=,256,,,,,,,,,,,,,,,2024-10-16T00:18:45.357Z
+545d499c-3940-43ac-86db-de613d86aac5,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/25/2024,9:15:00 AM,2024-09-25T19:15:00.000Z,Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,73,Partly_Cloudy,FALSE,incoming,1-2 ft,7,NE,=,1119,,,,,Auku'u bird perched near water.  Water muddy brown.  Hand was itching after touching water,,,,,,,,,,2024-10-16T00:40:50.550Z
+b503ef62-d0d2-4162-b672-f8eabcc9c265,Google_103994386286488002944,Hawaii,44,Oʻahu,9/10/2024,12:40:00 AM,2024-09-10T10:40:00.000Z,Waianae High School - Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,,,,FALSE,incoming,,,,=,417,,,,,,,,,,,,,,,2024-09-27T01:14:58.703Z
+033d53ea-dfcc-4c68-93d0-11b8d0585ff6,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/26/2024,8:45:00 AM,2024-08-26T18:45:00.000Z,Carmen G,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,77,Heavy_Rain,TRUE,incoming,2-4 ft,16,NE,=,223,,,,,,,,,,,,,,,2024-09-07T02:18:50.730Z
+21aa09b0-6873-4edd-ba35-7c6778ce453f,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/28/2024,8:45:00 AM,2024-07-28T18:45:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,79,Sunny,FALSE,outgoing,1-2 ft,9,NE,=,20,,,,,"living debris, trash in water",,,,,,,,,,2024-07-30T04:43:47.760Z
+3ead4d3b-b1b4-4748-824e-8d589cd03061,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/16/2024,8:25:00 AM,2024-06-16T18:25:00.000Z,Ella Strum,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,76,Sunny,TRUE,outgoing,2-4 ft,8,NE,=,238,,,,,"Camping, beach access blocked, Brown water, large turtle caught in debris",,,,,,,,,,2024-06-18T03:41:03.036Z
+9eeeeb64-56d6-4141-af6d-9c3261982ff1,Google_104303825164857571229,Hawaii,44,Oʻahu,6/3/2024,9:00:00 AM,2024-06-03T19:00:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77.8,75,Sunny,FALSE,low,2-4 ft,6.9,SW,=,676,,,,,"Brown water, a lot of debris. ",,,,,,,,,,2024-06-05T02:30:39.975Z
+4ee9935f-61a0-4582-912e-8294a81edabf,Google_104303825164857571229,Hawaii,44,Oʻahu,5/19/2024,7:20:00 AM,2024-05-19T17:20:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,72,Partly_Cloudy,TRUE,low,<1 ft,5.8,SW,>,24196,,,,,"Unhoused person storing things under bridge, smelled of human waste, water very brown after rain. ",,,,,,,,,,2024-05-21T00:35:57.798Z
+d8d27eb1-8e04-4eaa-b278-2c10e5d11192,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/5/2024,7:45:00 AM,2024-05-05T17:45:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,72,Partly_Cloudy,FALSE,outgoing,<1 ft,11,NE,=,199,,,,,"New fence blocking camping/access. Debris, murky, brown, trash in Water",,,,,,,,,,2024-05-07T03:47:12.421Z
+13d24e56-9957-40f6-8416-f6952e747850,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/21/2024,7:33:00 AM,2024-04-21T17:33:00.000Z,Carmen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,73,70,Sunny,FALSE,outgoing,2-4 ft,8,NE,=,374,,,,,,,,,,,,,,,2024-04-23T08:28:50.682Z
+1f1efd91-ad7a-4632-bfc3-9320af1bddbe,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/7/2024,8:15:00 AM,2024-04-07T18:15:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,69,Light_Rain,TRUE,outgoing,<1 ft,12,NE,=,62,,,,,"Trash, debris in and around water. 4 shopping carts in water.  People camping next to stream.  Water brown but can see the bottom",,,,,,,,,,2024-04-09T04:08:58.778Z
+ea12d295-d00e-4a9b-9f53-3a9fa747d4db,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/24/2024,7:43:00 AM,2024-03-24T17:43:00.000Z,Ella S,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,73,Sunny,FALSE,outgoing,<1 ft,9,NE,=,384,,,,,"Trash debris(shopping cart) in/around water
+brown murky water, can't see fish or bottom",,,,,,,,,,2024-03-26T08:20:35.092Z
+804f7ac1-57de-44f8-b67f-3c468a81026d,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/10/2024,7:20:00 AM,2024-03-10T17:20:00.000Z,Carmen G S,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,75,69,Overcast,FALSE,outgoing,2-4 ft,9,NE,=,414,,,,,"trash in water, shopping carts, illegal crab traps",,,,,,,,,,2024-03-12T09:49:50.008Z
+5f263e87-1293-4c48-8fdd-f263625c5d55,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/25/2024,7:00:00 AM,2024-02-25T17:00:00.000Z,T Needles,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,75,64,Partly_Cloudy,FALSE,incoming,2-4 ft,11.5,NE,=,175,,,,,,,,,,,,,,,2024-02-27T09:06:34.292Z
+1fab975a-0aa9-466a-ace3-3b62314eb679,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/11/2024,7:25:00 AM,2024-02-11T17:25:00.000Z,Tasha Firestone,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,65,Sunny,FALSE,outgoing,<1 ft,5.7,NE,=,771,,,,,Murky,,,,,,,,,,2024-02-13T08:36:51.190Z
+63df7fe7-74e0-448b-8a2b-ae759e7a75c6,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/28/2024,7:50:00 AM,2024-01-28T17:50:00.000Z,Ella,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,73,Overcast,TRUE,incoming,<1 ft,15,,=,521,,,,,"Windy, some trash.  Water is murky and choppy",,,,,,,,,,2024-01-30T07:56:37.947Z
+638e5681-3483-446b-92a0-982fd3dbcddc,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/14/2024,7:55:00 AM,2024-01-14T17:55:00.000Z,T. Needels,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,60,Sunny,FALSE,outgoing,1-2 ft,3,NE,=,12033,,,,,Murky,,,,,,,,,,2024-01-16T04:38:06.877Z
+3b47d5f4-80e2-4b55-a36b-8c6064f5e8b1,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/10/2023,7:30:00 AM,2023-12-10T17:30:00.000Z,Carmen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,71,Sunny,FALSE,incoming,1-2 ft,12,SW,=,839,,,,,"Trash, murky water, big tree branch",,,,,,,,,,2023-12-12T00:13:25.645Z
+0c103e0b-11e3-44c1-8257-34bca5421647,Google_117941694820731963023,Hawaii,44,Oʻahu,11/26/2023,7:50:00 AM,2023-11-26T17:50:00.000Z,Pat Louie,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,69,Partly_Cloudy,TRUE,outgoing,2-4 ft,7,NE,=,74,,,,,Murky,,,,,,,,,,2023-11-27T23:51:46.856Z
+5d3210d1-863e-44d0-9919-079ca0d434e7,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/12/2023,8:05:00 AM,2023-11-12T18:05:00.000Z,Ella,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,74,Overcast,TRUE,outgoing,1-2 ft,10,SW,=,86,,,,,"Trash, debris in the water. Water clear with schools of fish.",,,,,,,,,,2023-11-14T03:25:01.906Z
+1de0f976-f770-4d90-99a6-620d86304b70,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/29/2023,7:45:00 AM,2023-10-29T17:45:00.000Z,Jodie Tonita,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,71,Sunny,TRUE,outgoing,2-4 ft,6,NE,=,134,,,,,Murky with debris and fish,,,,,,,,,,2023-10-31T01:22:32.864Z
+39acbca1-a7ef-4b62-804d-60ed7d666aee,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/15/2023,8:15:00 AM,2023-10-15T18:15:00.000Z,Tasha Firestone,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,73,Sunny,FALSE,incoming,2-4 ft,5,NE,=,41,,,,,"Urine smell. Shopping cart in stream, clear water, can see the bottom",,,,,,,,,,2023-10-17T03:28:22.027Z
+758d8da5-838b-4a81-9de7-fe04304e8c28,Google_117941694820731963023,Hawaii,44,Oʻahu,10/1/2023,8:00:00 AM,2023-10-01T18:00:00.000Z,Christian Squire,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,76,Sunny,FALSE,outgoing,2-4 ft,6,SE,=,86,,,,,"Windy, Debris in water",,,,,,,,,,2023-10-03T00:22:09.571Z
+7e990c13-7994-4584-bf51-7bb19714f3d5,Google_117941694820731963023,Hawaii,44,Oʻahu,9/17/2023,7:23:00 AM,2023-09-17T17:23:00.000Z,Lauren Cason,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,74,Sunny,TRUE,outgoing,2-4 ft,8,NE,=,74,,,,,,,,,,,,,,,2023-09-19T01:03:16.546Z
+5708b234-188a-4c24-959e-853f72fd2a47,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/3/2023,7:25:00 AM,2023-09-03T17:25:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,82,Partly_Cloudy,FALSE,incoming,1-2 ft,4.6,SE,=,20,,,,,,,,,,,,,,,2023-09-04T23:30:51.745Z
+b73e77a6-ec6b-4cb9-8841-521a18e92d7f,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/20/2023,8:45:00 AM,2023-08-20T18:45:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,83,Partly_Cloudy,TRUE,outgoing,1-2 ft,4,SW,=,52,,,,,,,,,,,,,,,2023-08-22T00:52:21.045Z
+c3b3f9b8-af57-4ad1-9e1e-64ea3ef9c989,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,8/6/2023,7:49:00 AM,2023-08-06T17:49:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,71,Partly_Cloudy,FALSE,incoming,1-2 ft,7,SE,=,41,,,,,,,,,,,,,,,2023-08-08T05:41:43.275Z
+71e85052-8cde-465e-983a-5e78d68709d3,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/9/2023,7:17:00 AM,2023-07-09T17:17:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,75,Sunny,FALSE,outgoing,2-4 ft,12,NE,=,75,,,,,Offshore wind,,,,,,,,,,2023-07-11T08:08:28.057Z
+8e4855f4-ff27-4f75-8008-d1262a544e08,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/25/2023,8:45:00 AM,2023-06-25T18:45:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,75,Partly_Cloudy,FALSE,outgoing,2-4 ft,13,NE,=,121,,,,,,,,,,,,,,,2023-06-27T09:16:39.300Z
+41badbae-cf1a-4120-ac9a-c0db59d187f5,Google_117941694820731963023,Hawaii,44,Oʻahu,6/11/2023,8:43:00 AM,2023-06-11T18:43:00.000Z,Chris Garcia,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,78,Sunny,FALSE,incoming,2-4 ft,8,E,=,228,,,,,,,,,,,,,,,2023-06-13T00:29:25.469Z
+a42a0e75-12aa-48d5-ae95-b746509859c8,Google_107796448582146466088,Hawaii,44,Oʻahu,5/28/2023,8:25:00 AM,2023-05-28T18:25:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,73,Sunny,FALSE,low,1-2 ft,5,S,=,2143,,,,,"outgoing, low tide. ",,,,,,,,,,2023-05-30T07:41:52.994Z
+c60fff0a-29cb-4f0e-9ffa-e3458db1648d,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/14/2023,7:00:00 AM,2023-05-14T17:00:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,71,Sunny,FALSE,outgoing,1-2 ft,16,NE,=,420,,,,,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,2023-05-16T04:00:37.815Z
+8352d4a1-15a9-47e7-b613-14d0772cf752,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/30/2023,7:00:00 AM,2023-04-30T17:00:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,72,Sunny,FALSE,incoming,1-2 ft,7,E,=,504,,,,,,,,,,,,,,,2023-05-02T00:22:58.183Z
+c7a6fdd0-b45a-4a34-8c7e-1c972078c1e5,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/16/2023,7:15:00 AM,2023-04-16T17:15:00.000Z,Needels,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,73,Sunny,FALSE,outgoing,1-2 ft,4,SW,=,323,,,,,"Water is clear, could see bottom, very low tide",,,,,,,,,,2023-04-18T01:13:57.095Z
+6ea99be8-d87f-48c2-8b71-1a920d58868f,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/2/2023,7:45:00 AM,2023-04-02T17:45:00.000Z,Joe(Kingdom Pathways),8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,73,Overcast,TRUE,outgoing,2-4 ft,5,SE,=,813,,,,,,,,,,,,,,,2023-04-03T23:57:28.832Z
+13509951-4b1b-4111-a8d1-a048e5093b94,Google_107796448582146466088,Hawaii,44,Oʻahu,3/19/2023,7:30:00 AM,2023-03-19T17:30:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,74,Partly_Cloudy,FALSE,outgoing,<1 ft,10,,=,1539,,,,,"outgoing, low tide",,,,,,,,,,2023-03-21T08:32:12.389Z
+e2a71f0a-0247-476d-8252-2f6baf9c5a5f,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,3/5/2023,7:28:00 AM,2023-03-05T17:28:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,72,Sunny,FALSE,incoming,1-2 ft,1,NW,=,1860,,,,,,,,,,,,,,,2023-03-07T08:21:10.624Z
+53d7a8aa-06cd-4bbd-82c1-3f09c006ac8e,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,2/19/2023,7:00:00 AM,2023-02-19T17:00:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,72,Sunny,TRUE,outgoing,1-2 ft,5,SE,=,6867,,,,,,,,,,,,,,,2023-02-21T05:38:26.226Z
+061132f3-bb56-4214-acde-a13510961749,Google_107796448582146466088,Hawaii,44,Oʻahu,2/5/2023,6:55:00 AM,2023-02-05T16:55:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,73,,TRUE,low,1-2 ft,11,E,>,24196,,,,,"Sheet's date says 1/5/23, but I think writer meant to write 2/5/23. outgoing, medium tide.",,,,,,,,,,2023-02-07T07:30:22.798Z
+c878d632-5e8c-479c-8a37-37743c2deba2,Google_107796448582146466088,Hawaii,44,Oʻahu,1/22/2023,8:10:00 AM,2023-01-22T18:10:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,72,Sunny,TRUE,outgoing,4-6 ft,5,,=,1012,,,,,"Outgoing, medium tide.  ",,,,,,,,,,2023-01-24T07:34:55.737Z
+c3580122-9920-433e-9d45-bd8338e002a4,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/8/2023,8:10:00 AM,2023-01-08T18:10:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,71,Sunny,TRUE,outgoing,1-2 ft,8,NE,=,213,,,,,,,34.1,,,,,,,,2023-01-10T02:16:32.594Z
+ef18974c-d7fd-4334-9e9b-d9c4a0031dce,Google_107796448582146466088,Hawaii,44,Oʻahu,12/11/2022,8:25:00 AM,2022-12-11T18:25:00.000Z,Joseph Simpa (sp?),8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,,75,Partly_Cloudy,FALSE,high,<1 ft,,E,=,393,,,,,"outgoing, high tide.  Smells like poop, sewer!  Open sewage smells, water is cloudy.  unable to see bottom.   
+",,393,,,,,,,,2022-12-13T08:02:31.607Z
+fb3da2b3-909e-480e-9c2e-63691c2d6fb7,Google_107796448582146466088,Hawaii,44,Oʻahu,11/27/2022,8:45:00 AM,2022-11-27T18:45:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,72,Partly_Cloudy,TRUE,high,1-2 ft,6,,=,556,,,,,"
+outgoing, high tide",,32.6,,,,,,,,2022-11-29T07:12:05.000Z
+d9658d7b-5f14-496d-9f3c-f1ab08050e70,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/13/2022,7:25:00 AM,2022-11-13T17:25:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,75,Sunny,TRUE,high,2-4 ft,15,NE,=,275.0,,,,,,,36.4,,,,,,,,2022-11-15T05:23:41.568Z
+b08dcc3c-643c-4f09-bc73-a8c7b577e586,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/30/2022,9:20:00 AM,2022-10-30T19:20:00.000Z,Mary Ellen Apostol,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,76,Sunny,TRUE,high,2-4 ft,7,E,=,364.0,,,,,,,36.3,,,,,,,,2022-11-01T01:32:56.238Z
+6d7fcc62-5d9a-437d-9a01-5e9a71b51459,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/16/2022,8:00:00 AM,2022-10-16T18:00:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,75,,TRUE,incoming,2-4 ft,7,NE,=,650.0,,,,,,,34.4,,,,,,,,2022-10-18T02:38:12.757Z
+721f713f-fc9d-41f3-8f72-be713a590aec,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/2/2022,7:55:00 AM,2022-10-02T17:55:00.000Z,Guzman-Simplician,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,77,Overcast,FALSE,incoming,1-2 ft,7,SE,=,63.0,,,,,,,35.1,,,,,,,,2022-10-04T02:57:14.018Z
+0cb8dcfa-f460-482a-a042-5d624c656ceb,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/18/2022,8:30:00 AM,2022-09-18T18:30:00.000Z,Mary Ellen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,78,Sunny,FALSE,low,2-4 ft,4,SE,=,98,,,,,,,31.9,,,,,,,,2022-09-20T20:37:39.005Z
+f43ba2d6-9ac6-4e54-9eb1-0baeb58839b6,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/4/2022,7:45:00 AM,2022-09-04T17:45:00.000Z,Linda and Tom Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,79,Partly_Cloudy,TRUE,incoming,2-4 ft,9,NE,=,52.0,,,,,,,34.3,,,,,,,,2022-09-06T02:00:31.041Z
+1282e663-c442-403a-946f-0d8e64311942,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/21/2022,8:00:00 AM,2022-08-21T18:00:00.000Z,Cisco,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,78,Sunny,FALSE,outgoing,4-6 ft,13,NE,=,63.0,,,,,,,30.1,,,,,,,,2022-09-07T01:49:17.261Z
+624b6a7c-ccbe-4221-9af4-cabdbf36a736,Google_118187667963709316099,Hawaii,44,Oʻahu,5/28/2025,6:10:00 AM,2025-05-28T16:10:00.000Z,Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,70,70,,FALSE,outgoing,1-2 ft,,SW,=,341,,,,,City recently remoed all encampments. Trash remains in and around water,,,,,,,,,,2025-05-30T10:14:11.009Z
+3154f65d-f4fd-41d6-bdc3-450d6bdf6d31,Google_118187667963709316099,Hawaii,44,Oʻahu,5/14/2025,5:40:00 AM,2025-05-14T15:40:00.000Z,Joseph Simpliciano,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,72,Overcast,FALSE,outgoing,2-4 ft,,E,=,187,,,,,Trash in water ,,,,,,,,,,2025-05-15T21:49:15.849Z
+89efd6b9-ed7e-4b72-a85c-2598ed757300,Google_118187667963709316099,Hawaii,44,Oʻahu,4/30/2025,6:15:00 AM,2025-04-30T16:15:00.000Z,Joseph Simpliciano,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,71,Partly_Cloudy,FALSE,outgoing,1-2 ft,,E,=,7270,,,,,"3 encampments, water is brown. Able to see school of mullet. Shopping carts and strollers in canal. Filthy! ",,,,,,,,,,2025-05-01T22:14:23.311Z
+62594b96-2d8a-4ed4-8a22-ac58a513d1df,Google_118187667963709316099,Hawaii,44,Oʻahu,3/5/2025,9:35:00 AM,2025-03-05T19:35:00.000Z,Carmen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,76,Sunny,FALSE,outgoing,1-2 ft,14,NE,=,1565,,,,,,,,,,,,,,,2025-03-06T23:57:49.877Z
+3ae4192a-9151-47bc-9e5b-0657e81c29d7,Google_118187667963709316099,Hawaii,44,Oʻahu,2/5/2025,8:55:00 AM,2025-02-05T18:55:00.000Z,Pat Louie,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,73,Sunny,FALSE,outgoing,1-2 ft,,NE,=,298,,,,,"lots of fish, debris",,,,,,,,,,2025-02-06T20:58:37.037Z
+7091464f-7f2d-4cdf-9094-44d34a063333,Google_118187667963709316099,Hawaii,44,Oʻahu,1/22/2025,9:39:00 AM,2025-01-22T19:39:00.000Z,Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,72,Light_Rain,TRUE,incoming,1-2 ft,9,NW,=,748,,,,,,,,,,,,,,,2025-01-23T21:40:23.635Z
+5026c20e-a08a-4d8e-901e-e522d66a778d,Google_118187667963709316099,Hawaii,44,Oʻahu,1/8/2025,9:38:00 AM,2025-01-08T19:38:00.000Z,Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,76,Light_Rain,TRUE,incoming,2-4 ft,,S,=,437,,,,,,,,,,,,,,,2025-01-09T21:44:16.447Z
+aed0ec68-b1a1-4d6c-8552-958dd9eaf624,Google_118187667963709316099,Hawaii,44,Oʻahu,12/11/2024,10:19:00 AM,2024-12-11T20:19:00.000Z,Carmen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,76,Partly_Cloudy,TRUE,outgoing,1-2 ft,13,NE,=,122,,,,,,,,,,,,,,,2024-12-12T22:09:06.147Z
+8c5a82b6-3153-4dcb-b081-99f363337e9f,Google_118187667963709316099,Hawaii,44,Oʻahu,11/25/2024,10:19:00 AM,2024-11-25T20:19:00.000Z,Carmen ,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,75,Sunny,FALSE,incoming,1-2 ft,1,NE,=,62,,,,,"Debris, brown water and household trash",,,,,,,,,,2024-12-02T17:48:09.934Z
+fff5815a-d3b4-46d8-be27-714aa48bc99d,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/7/2024,9:00:00 AM,2024-11-07T19:00:00.000Z,Carmen G.,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,80,74,Sunny,FALSE,outgoing,1-2 ft,13,NE,=,281,,,,,Trash and houseless set-up in storm drain.  School of mullet. Clear,,,,,,,,,,2024-11-15T23:44:58.747Z
+bb3d9e2b-0c13-45d9-bede-be0291f6b5b8,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/14/2024,9:00:00 AM,2024-10-14T19:00:00.000Z,Pat Louie,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,78,Overcast,TRUE,incoming,2-4 ft,7,E,=,256,,,,,,,,,,,,,,,2024-10-16T00:18:45.357Z
+545d499c-3940-43ac-86db-de613d86aac5,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/25/2024,9:15:00 AM,2024-09-25T19:15:00.000Z,Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,73,Partly_Cloudy,FALSE,incoming,1-2 ft,7,NE,=,1119,,,,,Auku'u bird perched near water.  Water muddy brown.  Hand was itching after touching water,,,,,,,,,,2024-10-16T00:40:50.550Z
+b503ef62-d0d2-4162-b672-f8eabcc9c265,Google_103994386286488002944,Hawaii,44,Oʻahu,9/10/2024,12:40:00 AM,2024-09-10T10:40:00.000Z,Waianae High School - Joseph,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,,,,FALSE,incoming,,,,=,417,,,,,,,,,,,,,,,2024-09-27T01:14:58.703Z
+033d53ea-dfcc-4c68-93d0-11b8d0585ff6,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/26/2024,8:45:00 AM,2024-08-26T18:45:00.000Z,Carmen G,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,77,Heavy_Rain,TRUE,incoming,2-4 ft,16,NE,=,223,,,,,,,,,,,,,,,2024-09-07T02:18:50.730Z
+21aa09b0-6873-4edd-ba35-7c6778ce453f,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/28/2024,8:45:00 AM,2024-07-28T18:45:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,79,Sunny,FALSE,outgoing,1-2 ft,9,NE,=,20,,,,,"living debris, trash in water",,,,,,,,,,2024-07-30T04:43:47.760Z
+3ead4d3b-b1b4-4748-824e-8d589cd03061,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/16/2024,8:25:00 AM,2024-06-16T18:25:00.000Z,Ella Strum,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,76,Sunny,TRUE,outgoing,2-4 ft,8,NE,=,238,,,,,"Camping, beach access blocked, Brown water, large turtle caught in debris",,,,,,,,,,2024-06-18T03:41:03.036Z
+9eeeeb64-56d6-4141-af6d-9c3261982ff1,Google_104303825164857571229,Hawaii,44,Oʻahu,6/3/2024,9:00:00 AM,2024-06-03T19:00:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77.8,75,Sunny,FALSE,low,2-4 ft,6.9,SW,=,676,,,,,"Brown water, a lot of debris. ",,,,,,,,,,2024-06-05T02:30:39.975Z
+4ee9935f-61a0-4582-912e-8294a81edabf,Google_104303825164857571229,Hawaii,44,Oʻahu,5/19/2024,7:20:00 AM,2024-05-19T17:20:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,72,Partly_Cloudy,TRUE,low,<1 ft,5.8,SW,>,24196,,,,,"Unhoused person storing things under bridge, smelled of human waste, water very brown after rain. ",,,,,,,,,,2024-05-21T00:35:57.798Z
+d8d27eb1-8e04-4eaa-b278-2c10e5d11192,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/5/2024,7:45:00 AM,2024-05-05T17:45:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,72,Partly_Cloudy,FALSE,outgoing,<1 ft,11,NE,=,199,,,,,"New fence blocking camping/access. Debris, murky, brown, trash in Water",,,,,,,,,,2024-05-07T03:47:12.421Z
+13d24e56-9957-40f6-8416-f6952e747850,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/21/2024,7:33:00 AM,2024-04-21T17:33:00.000Z,Carmen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,73,70,Sunny,FALSE,outgoing,2-4 ft,8,NE,=,374,,,,,,,,,,,,,,,2024-04-23T08:28:50.682Z
+1f1efd91-ad7a-4632-bfc3-9320af1bddbe,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/7/2024,8:15:00 AM,2024-04-07T18:15:00.000Z,Ella Sturm,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,69,Light_Rain,TRUE,outgoing,<1 ft,12,NE,=,62,,,,,"Trash, debris in and around water. 4 shopping carts in water.  People camping next to stream.  Water brown but can see the bottom",,,,,,,,,,2024-04-09T04:08:58.778Z
+ea12d295-d00e-4a9b-9f53-3a9fa747d4db,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/24/2024,7:43:00 AM,2024-03-24T17:43:00.000Z,Ella S,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,73,Sunny,FALSE,outgoing,<1 ft,9,NE,=,384,,,,,"Trash debris(shopping cart) in/around water
+brown murky water, can't see fish or bottom",,,,,,,,,,2024-03-26T08:20:35.092Z
+804f7ac1-57de-44f8-b67f-3c468a81026d,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/10/2024,7:20:00 AM,2024-03-10T17:20:00.000Z,Carmen G S,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,75,69,Overcast,FALSE,outgoing,2-4 ft,9,NE,=,414,,,,,"trash in water, shopping carts, illegal crab traps",,,,,,,,,,2024-03-12T09:49:50.008Z
+5f263e87-1293-4c48-8fdd-f263625c5d55,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/25/2024,7:00:00 AM,2024-02-25T17:00:00.000Z,T Needles,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,75,64,Partly_Cloudy,FALSE,incoming,2-4 ft,11.5,NE,=,175,,,,,,,,,,,,,,,2024-02-27T09:06:34.292Z
+1fab975a-0aa9-466a-ace3-3b62314eb679,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/11/2024,7:25:00 AM,2024-02-11T17:25:00.000Z,Tasha Firestone,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,65,Sunny,FALSE,outgoing,<1 ft,5.7,NE,=,771,,,,,Murky,,,,,,,,,,2024-02-13T08:36:51.190Z
+63df7fe7-74e0-448b-8a2b-ae759e7a75c6,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/28/2024,7:50:00 AM,2024-01-28T17:50:00.000Z,Ella,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,73,Overcast,TRUE,incoming,<1 ft,15,,=,521,,,,,"Windy, some trash.  Water is murky and choppy",,,,,,,,,,2024-01-30T07:56:37.947Z
+638e5681-3483-446b-92a0-982fd3dbcddc,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/14/2024,7:55:00 AM,2024-01-14T17:55:00.000Z,T. Needels,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,60,Sunny,FALSE,outgoing,1-2 ft,3,NE,=,12033,,,,,Murky,,,,,,,,,,2024-01-16T04:38:06.877Z
+3b47d5f4-80e2-4b55-a36b-8c6064f5e8b1,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/10/2023,7:30:00 AM,2023-12-10T17:30:00.000Z,Carmen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,71,Sunny,FALSE,incoming,1-2 ft,12,SW,=,839,,,,,"Trash, murky water, big tree branch",,,,,,,,,,2023-12-12T00:13:25.645Z
+0c103e0b-11e3-44c1-8257-34bca5421647,Google_117941694820731963023,Hawaii,44,Oʻahu,11/26/2023,7:50:00 AM,2023-11-26T17:50:00.000Z,Pat Louie,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,69,Partly_Cloudy,TRUE,outgoing,2-4 ft,7,NE,=,74,,,,,Murky,,,,,,,,,,2023-11-27T23:51:46.856Z
+5d3210d1-863e-44d0-9919-079ca0d434e7,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/12/2023,8:05:00 AM,2023-11-12T18:05:00.000Z,Ella,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,74,Overcast,TRUE,outgoing,1-2 ft,10,SW,=,86,,,,,"Trash, debris in the water. Water clear with schools of fish.",,,,,,,,,,2023-11-14T03:25:01.906Z
+1de0f976-f770-4d90-99a6-620d86304b70,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/29/2023,7:45:00 AM,2023-10-29T17:45:00.000Z,Jodie Tonita,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,71,Sunny,TRUE,outgoing,2-4 ft,6,NE,=,134,,,,,Murky with debris and fish,,,,,,,,,,2023-10-31T01:22:32.864Z
+39acbca1-a7ef-4b62-804d-60ed7d666aee,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/15/2023,8:15:00 AM,2023-10-15T18:15:00.000Z,Tasha Firestone,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,73,Sunny,FALSE,incoming,2-4 ft,5,NE,=,41,,,,,"Urine smell. Shopping cart in stream, clear water, can see the bottom",,,,,,,,,,2023-10-17T03:28:22.027Z
+758d8da5-838b-4a81-9de7-fe04304e8c28,Google_117941694820731963023,Hawaii,44,Oʻahu,10/1/2023,8:00:00 AM,2023-10-01T18:00:00.000Z,Christian Squire,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,76,Sunny,FALSE,outgoing,2-4 ft,6,SE,=,86,,,,,"Windy, Debris in water",,,,,,,,,,2023-10-03T00:22:09.571Z
+7e990c13-7994-4584-bf51-7bb19714f3d5,Google_117941694820731963023,Hawaii,44,Oʻahu,9/17/2023,7:23:00 AM,2023-09-17T17:23:00.000Z,Lauren Cason,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,74,Sunny,TRUE,outgoing,2-4 ft,8,NE,=,74,,,,,,,,,,,,,,,2023-09-19T01:03:16.546Z
+5708b234-188a-4c24-959e-853f72fd2a47,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/3/2023,7:25:00 AM,2023-09-03T17:25:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,82,Partly_Cloudy,FALSE,incoming,1-2 ft,4.6,SE,=,20,,,,,,,,,,,,,,,2023-09-04T23:30:51.745Z
+b73e77a6-ec6b-4cb9-8841-521a18e92d7f,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/20/2023,8:45:00 AM,2023-08-20T18:45:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,83,Partly_Cloudy,TRUE,outgoing,1-2 ft,4,SW,=,52,,,,,,,,,,,,,,,2023-08-22T00:52:21.045Z
+c3b3f9b8-af57-4ad1-9e1e-64ea3ef9c989,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,8/6/2023,7:49:00 AM,2023-08-06T17:49:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,71,Partly_Cloudy,FALSE,incoming,1-2 ft,7,SE,=,41,,,,,,,,,,,,,,,2023-08-08T05:41:43.275Z
+71e85052-8cde-465e-983a-5e78d68709d3,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/9/2023,7:17:00 AM,2023-07-09T17:17:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,75,Sunny,FALSE,outgoing,2-4 ft,12,NE,=,75,,,,,Offshore wind,,,,,,,,,,2023-07-11T08:08:28.057Z
+8e4855f4-ff27-4f75-8008-d1262a544e08,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/25/2023,8:45:00 AM,2023-06-25T18:45:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,75,Partly_Cloudy,FALSE,outgoing,2-4 ft,13,NE,=,121,,,,,,,,,,,,,,,2023-06-27T09:16:39.300Z
+41badbae-cf1a-4120-ac9a-c0db59d187f5,Google_117941694820731963023,Hawaii,44,Oʻahu,6/11/2023,8:43:00 AM,2023-06-11T18:43:00.000Z,Chris Garcia,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,78,Sunny,FALSE,incoming,2-4 ft,8,E,=,228,,,,,,,,,,,,,,,2023-06-13T00:29:25.469Z
+a42a0e75-12aa-48d5-ae95-b746509859c8,Google_107796448582146466088,Hawaii,44,Oʻahu,5/28/2023,8:25:00 AM,2023-05-28T18:25:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,73,Sunny,FALSE,low,1-2 ft,5,S,=,2143,,,,,"outgoing, low tide. ",,,,,,,,,,2023-05-30T07:41:52.994Z
+c60fff0a-29cb-4f0e-9ffa-e3458db1648d,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/14/2023,7:00:00 AM,2023-05-14T17:00:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,71,Sunny,FALSE,outgoing,1-2 ft,16,NE,=,420,,,,,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,2023-05-16T04:00:37.815Z
+8352d4a1-15a9-47e7-b613-14d0772cf752,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/30/2023,7:00:00 AM,2023-04-30T17:00:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,72,Sunny,FALSE,incoming,1-2 ft,7,E,=,504,,,,,,,,,,,,,,,2023-05-02T00:22:58.183Z
+c7a6fdd0-b45a-4a34-8c7e-1c972078c1e5,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/16/2023,7:15:00 AM,2023-04-16T17:15:00.000Z,Needels,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,73,Sunny,FALSE,outgoing,1-2 ft,4,SW,=,323,,,,,"Water is clear, could see bottom, very low tide",,,,,,,,,,2023-04-18T01:13:57.095Z
+6ea99be8-d87f-48c2-8b71-1a920d58868f,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/2/2023,7:45:00 AM,2023-04-02T17:45:00.000Z,Joe(Kingdom Pathways),8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,73,Overcast,TRUE,outgoing,2-4 ft,5,SE,=,813,,,,,,,,,,,,,,,2023-04-03T23:57:28.832Z
+13509951-4b1b-4111-a8d1-a048e5093b94,Google_107796448582146466088,Hawaii,44,Oʻahu,3/19/2023,7:30:00 AM,2023-03-19T17:30:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,74,Partly_Cloudy,FALSE,outgoing,<1 ft,10,,=,1539,,,,,"outgoing, low tide",,,,,,,,,,2023-03-21T08:32:12.389Z
+e2a71f0a-0247-476d-8252-2f6baf9c5a5f,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,3/5/2023,7:28:00 AM,2023-03-05T17:28:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,72,Sunny,FALSE,incoming,1-2 ft,1,NW,=,1860,,,,,,,,,,,,,,,2023-03-07T08:21:10.624Z
+53d7a8aa-06cd-4bbd-82c1-3f09c006ac8e,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,2/19/2023,7:00:00 AM,2023-02-19T17:00:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,72,Sunny,TRUE,outgoing,1-2 ft,5,SE,=,6867,,,,,,,,,,,,,,,2023-02-21T05:38:26.226Z
+061132f3-bb56-4214-acde-a13510961749,Google_107796448582146466088,Hawaii,44,Oʻahu,2/5/2023,6:55:00 AM,2023-02-05T16:55:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,76,73,,TRUE,low,1-2 ft,11,E,>,24196,,,,,"Sheet's date says 1/5/23, but I think writer meant to write 2/5/23. outgoing, medium tide.",,,,,,,,,,2023-02-07T07:30:22.798Z
+c878d632-5e8c-479c-8a37-37743c2deba2,Google_107796448582146466088,Hawaii,44,Oʻahu,1/22/2023,8:10:00 AM,2023-01-22T18:10:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,78,72,Sunny,TRUE,outgoing,4-6 ft,5,,=,1012,,,,,"Outgoing, medium tide.  ",,,,,,,,,,2023-01-24T07:34:55.737Z
+c3580122-9920-433e-9d45-bd8338e002a4,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/8/2023,8:10:00 AM,2023-01-08T18:10:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,77,71,Sunny,TRUE,outgoing,1-2 ft,8,NE,=,213,,,,,,,34.1,,,,,,,,2023-01-10T02:16:32.594Z
+ef18974c-d7fd-4334-9e9b-d9c4a0031dce,Google_107796448582146466088,Hawaii,44,Oʻahu,12/11/2022,8:25:00 AM,2022-12-11T18:25:00.000Z,Joseph Simpa (sp?),8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,,75,Partly_Cloudy,FALSE,high,<1 ft,,E,=,393,,,,,"outgoing, high tide.  Smells like poop, sewer!  Open sewage smells, water is cloudy.  unable to see bottom.   
+",,393,,,,,,,,2022-12-13T08:02:31.607Z
+fb3da2b3-909e-480e-9c2e-63691c2d6fb7,Google_107796448582146466088,Hawaii,44,Oʻahu,11/27/2022,8:45:00 AM,2022-11-27T18:45:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,79,72,Partly_Cloudy,TRUE,high,1-2 ft,6,,=,556,,,,,"
+outgoing, high tide",,32.6,,,,,,,,2022-11-29T07:12:05.000Z
+d9658d7b-5f14-496d-9f3c-f1ab08050e70,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/13/2022,7:25:00 AM,2022-11-13T17:25:00.000Z,Cisco Santos,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,75,Sunny,TRUE,high,2-4 ft,15,NE,=,275.0,,,,,,,36.4,,,,,,,,2022-11-15T05:23:41.568Z
+b08dcc3c-643c-4f09-bc73-a8c7b577e586,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/30/2022,9:20:00 AM,2022-10-30T19:20:00.000Z,Mary Ellen Apostol,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,76,Sunny,TRUE,high,2-4 ft,7,E,=,364.0,,,,,,,36.3,,,,,,,,2022-11-01T01:32:56.238Z
+6d7fcc62-5d9a-437d-9a01-5e9a71b51459,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/16/2022,8:00:00 AM,2022-10-16T18:00:00.000Z,Linda Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,75,,TRUE,incoming,2-4 ft,7,NE,=,650.0,,,,,,,34.4,,,,,,,,2022-10-18T02:38:12.757Z
+721f713f-fc9d-41f3-8f72-be713a590aec,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/2/2022,7:55:00 AM,2022-10-02T17:55:00.000Z,Guzman-Simplician,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,77,Overcast,FALSE,incoming,1-2 ft,7,SE,=,63.0,,,,,,,35.1,,,,,,,,2022-10-04T02:57:14.018Z
+0cb8dcfa-f460-482a-a042-5d624c656ceb,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/18/2022,8:30:00 AM,2022-09-18T18:30:00.000Z,Mary Ellen,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,78,Sunny,FALSE,low,2-4 ft,4,SE,=,98,,,,,,,31.9,,,,,,,,2022-09-20T20:37:39.005Z
+f43ba2d6-9ac6-4e54-9eb1-0baeb58839b6,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/4/2022,7:45:00 AM,2022-09-04T17:45:00.000Z,Linda and Tom Reeve,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,81,79,Partly_Cloudy,TRUE,incoming,2-4 ft,9,NE,=,52.0,,,,,,,34.3,,,,,,,,2022-09-06T02:00:31.041Z
+1282e663-c442-403a-946f-0d8e64311942,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/21/2022,8:00:00 AM,2022-08-21T18:00:00.000Z,Cisco,8924,West Oʻahu: Kaupuni Stream,21.4487068,-158.1897632,82,78,Sunny,FALSE,outgoing,4-6 ft,13,NE,=,63.0,,,,,,,30.1,,,,,,,,2022-09-07T01:49:17.261Z

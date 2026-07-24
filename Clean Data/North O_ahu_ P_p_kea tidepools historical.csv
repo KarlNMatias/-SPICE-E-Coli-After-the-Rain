@@ -1,0 +1,238 @@
+sample id,data entry author,state,lab id,lab name,collection date,collection time (Pacific/Honolulu),stored collectionTime,tested by,site id,site name,latitude,longitude,water temperature (f),air temperature (f),current weather,recent precipitation,tide,wave height,wind speed (mph),wind direction,Enterococcus modifier,Enterococcus (mpn/100mL),Ecoli modifier,Ecoli (mpn/100mL),Total Coliform modifier,Total Coliform (mpn/100mL),comments,pH,Salinity (PSU),Turbidity (NTU),Ammonia/NH3 (ppm),Nitrates/NO3 (mg/L),Nitrites/NO2 (mg/L),Nitrogen(NO3+NO2) (mg/L),Phosphate (mg/L),Dissolved Oxygen (mg/L),publication time
+dca16b49-9cd2-40d8-b613-0bfd605cb954,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/1/2025,8:00:00 AM,2025-06-01T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,77,Partly_Cloudy,TRUE,incoming,<1 ft,2,SW,<,10,,,,,,,,,,,,,,,2025-06-03T02:39:45.157Z
+7fd3954a-cc76-49c1-adb8-9c96d73aad6a,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/20/2025,8:00:00 AM,2025-04-20T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,74,Partly_Cloudy,TRUE,incoming,<1 ft,7,NE,<,10,,,,,,,,,,,,,,,2025-04-22T02:09:07.686Z
+c1e26345-7c4a-49c0-afc9-65d3933f0066,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/6/2025,8:15:00 AM,2025-04-06T18:15:00.000Z,Christina,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,78,73,Sunny,FALSE,incoming,1-2 ft,13,NE,=,31,,,,,"waves 2ft in tide pools, 12+ft outside
+
+",,,,,,,,,,2025-04-08T02:41:37.437Z
+f7b4ec00-37a9-4daa-9388-f82c5a5a5fef,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/23/2025,6:05:00 AM,2025-03-23T16:05:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,73,Sunny,FALSE,incoming,<1 ft,7,E,<,10,,,,,,,,,,,,,,,2025-03-25T05:49:02.675Z
+cada0b71-1a2c-4570-ab04-5082ff7a454f,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/9/2025,8:00:00 AM,2025-03-09T18:00:00.000Z,Luca Cunaberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,69,Light_Rain,TRUE,incoming,<1 ft,18,NE,<,10,,,,,,,,,,,,,,,2025-03-11T02:10:26.303Z
+c714d8e3-ad5a-4d28-b85c-297dfe27543b,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/23/2025,8:00:00 AM,2025-02-23T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,72,Sunny,TRUE,outgoing,1-2 ft,8,NE,=,30,,,,,,,,,,,,,,,2025-02-25T03:28:24.657Z
+dd5de56d-d14f-4aec-b7bb-cac52e3b7644,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/9/2025,8:05:00 AM,2025-02-09T18:05:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,70,Sunny,FALSE,outgoing,1-2 ft,7,SE,=,10,,,,,,,,,,,,,,,2025-02-11T02:54:31.831Z
+35a582dc-531a-48c8-ab33-02d0433e93a6,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,1/26/2025,8:00:00 AM,2025-01-26T18:00:00.000Z,Luna Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,72,Light_Rain,TRUE,outgoing,<1 ft,11,E,<,10,,,,,,,,,,,,,,,2025-01-28T06:02:23.212Z
+6276be8c-4527-4e90-a676-4ebbb41085af,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,1/12/2025,8:30:00 AM,2025-01-12T18:30:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,71,Light_Rain,TRUE,outgoing,<1 ft,13,NE,<,10,,,,,,,,,,,,,,,2025-01-14T08:30:27.524Z
+89fdc803-ac73-464b-9531-66b16cd5e1ec,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,12/29/2024,7:50:00 AM,2024-12-29T17:50:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,71,Partly_Cloudy,TRUE,outgoing,1-2 ft,14,NE,<,10,,,,,,,,,,,,,,,2024-12-31T09:16:38.222Z
+60ae7c9f-c145-45bb-8fa6-b23ccfc62fb3,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,12/1/2024,8:15:00 AM,2024-12-01T18:15:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,71,Sunny,FALSE,outgoing,1-2 ft,6,SE,=,20,,,,,,,,,,,,,,,2024-12-03T02:55:14.293Z
+5f6e495a-1c83-483e-b8ba-7de95748f465,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,11/17/2024,8:00:00 AM,2024-11-17T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,71,Sunny,TRUE,outgoing,<1 ft,18,E,<,10,,,,,,,,,,,,,,,2024-11-19T06:29:55.192Z
+52fa21db-de4f-4d56-b525-893dc614215c,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,11/3/2024,8:46:00 AM,2024-11-03T18:46:00.000Z,Christina,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,TRUE,outgoing,<1 ft,5,E,=,480,,,,,"
+",,,,,,,,,,2024-11-05T07:27:08.201Z
+2b14b9ab-d622-4b98-926a-d4dfa756e3af,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/20/2024,8:00:00 AM,2024-10-20T18:00:00.000Z,Luca Cunniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,75,Sunny,TRUE,outgoing,<1 ft,15,NE,<,10,,,,,,,,,,,,,,,2024-10-22T22:46:41.125Z
+8d401c49-7075-49d2-b2ad-2e9fc9b88a26,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/6/2024,8:00:00 AM,2024-10-06T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,77,Sunny,FALSE,outgoing,<1 ft,11,E,=,75,,,,,,,,,,,,,,,2024-10-08T00:18:32.744Z
+4944078a-6952-4c09-86ee-0514f939b122,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,9/22/2024,7:55:00 AM,2024-09-22T17:55:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,73,Sunny,TRUE,outgoing,<1 ft,6,E,=,10,,,,,,,,,,,,,,,2024-09-24T05:51:23.764Z
+b3939989-b3eb-405b-b20c-b25d13bafbb6,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/28/2024,8:00:00 AM,2024-07-28T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,76,Partly_Cloudy,TRUE,incoming,<1 ft,15,E,=,10,,,,,,,,,,,,,,,2024-07-30T05:11:33.799Z
+588a9e35-fbee-40aa-b394-55f0cb46be78,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/14/2024,8:00:00 AM,2024-07-14T18:00:00.000Z,Luca Cunaberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,75,Partly_Cloudy,FALSE,incoming,<1 ft,15,NE,<,10,,,,,,,,,,,,,,,2024-07-16T08:49:21.278Z
+41f9f82f-ad98-4691-90aa-2eb9a1e2eea3,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/30/2024,8:55:00 AM,2024-06-30T18:55:00.000Z,Christina,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,incoming,<1 ft,5,E,<,10,,,,,,,,,,,,,,,2024-07-02T18:37:01.488Z
+68d5167c-ad4d-4f09-af95-602cec49c8ac,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,4/21/2024,8:00:00 AM,2024-04-21T18:00:00.000Z,Luca,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,70,Sunny,TRUE,incoming,<1 ft,13,NE,=,10,,,,,,,,,,,,,,,2024-04-23T08:48:17.273Z
+6f3f2a61-7358-4186-8281-da95a91407b6,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/7/2024,8:00:00 AM,2024-04-07T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,69,Partly_Cloudy,TRUE,outgoing,<1 ft,19,NE,<,10,,,,,,,,,,,,,,,2024-04-09T04:19:52.583Z
+cf6e7763-f857-438f-a0fd-e93971c55999,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,3/24/2024,7:55:00 AM,2024-03-24T17:55:00.000Z,Luc Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,69,Partly_Cloudy,TRUE,incoming,<1 ft,17,E,<,10,,,,,,,,,,,,,,,2024-03-26T08:44:19.456Z
+c0184d3f-5294-4374-8cea-65c5b67c65cc,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/25/2024,9:00:00 AM,2024-02-25T19:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,67,Overcast,TRUE,outgoing,<1 ft,18.4,E,<,10,,,,,,,,,,,,,,,2024-02-27T09:29:08.398Z
+553ee6f4-f8fd-489a-80c4-1d5a2b0f71b0,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,2/11/2024,9:00:00 AM,2024-02-11T19:00:00.000Z,Christina,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,FALSE,outgoing,<1 ft,6,,<,10,,,,,"wind direction variable
+temps not listed",,,,,,,,,,2024-02-13T08:58:40.570Z
+99a80bae-238b-4f8f-8432-ff39a52ecf62,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/14/2024,8:00:00 AM,2024-01-14T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,63,Sunny,FALSE,outgoing,<1 ft,4,,<,10,,,,,,,,,,,,,,,2024-01-16T04:52:41.993Z
+890a796f-1f70-482c-a7e3-49bb0861f180,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/10/2023,8:15:00 AM,2023-12-10T18:15:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,74,Sunny,FALSE,incoming,<1 ft,13,E,<,10,,,,,,,,,,,,,,,2023-12-12T00:31:17.887Z
+d66ed051-b950-4c8d-a212-73e0e935bdd7,Google_117941694820731963023,Hawaii,44,Oʻahu,11/26/2023,8:00:00 AM,2023-11-26T18:00:00.000Z,Lara Cuniberts,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,73,Overcast,TRUE,outgoing,1-2 ft,13,NE,=,20,,,,,,,,,,,,,,,2023-11-28T00:06:00.695Z
+948e8a34-2fb2-4e4e-9afe-05e391813b4d,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/29/2023,8:00:00 AM,2023-10-29T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,74,Sunny,FALSE,outgoing,<1 ft,7,E,=,10,,,,,,,,,,,,,,,2023-10-31T01:41:28.386Z
+255b2d8f-a31c-481e-8041-b9e3040bb049,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/15/2023,8:00:00 AM,2023-10-15T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,81,77,Sunny,FALSE,outgoing,<1 ft,6,E,=,63,,,,,,,,,,,,,,,2023-10-17T03:42:10.307Z
+692ad759-7b5a-4c84-8d1f-e64e5aff7daf,Google_117941694820731963023,Hawaii,44,Oʻahu,10/1/2023,8:30:00 AM,2023-10-01T18:30:00.000Z,Christian Squire,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,FALSE,outgoing,<1 ft,,,<,10,,,,,,,,,,,,,,,2023-10-03T00:23:55.543Z
+aac53b35-ebb6-4711-9166-84ed39bb3179,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/3/2023,8:05:00 AM,2023-09-03T18:05:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,74,Sunny,TRUE,incoming,<1 ft,14,NE,=,20,,,,,,,,,,,,,,,2023-09-04T23:39:36.540Z
+bbd420b2-f731-4e8e-8f2c-7cd4150a15cd,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/20/2023,8:00:00 AM,2023-08-20T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,74,Sunny,TRUE,outgoing,,12,E,<,10,,,,,,,,,,,,,,,2023-08-22T01:06:38.715Z
+605b9ac5-0c29-44a9-aa0b-4a3615ae462b,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,8/6/2023,8:10:00 AM,2023-08-06T18:10:00.000Z,Christina C,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,FALSE,outgoing,1-2 ft,,,<,10,,,,,,,,,,,,,,,2023-08-08T06:06:41.103Z
+ff2955e1-6dde-4f98-aee4-b831adeb9180,Google_117941694820731963023,Hawaii,44,Oʻahu,7/23/2023,8:05:00 AM,2023-07-23T18:05:00.000Z,Christian Squire,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,78,Partly_Cloudy,TRUE,incoming,<1 ft,16,E,<,10,,,,,Duplicate,,,,,,,,,,2023-07-25T00:53:48.450Z
+544b7341-3216-416e-b19f-ef14703edd1b,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,7/9/2023,8:00:00 AM,2023-07-09T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,75,Partly_Cloudy,TRUE,incoming,<1 ft,23,NE,<,10,,,,,,,,,,,,,,,2023-07-11T08:26:46.644Z
+3cfb4562-afcc-442e-aad5-559f7a7515bf,624e7b16-f050-4380-8f6f-d412e376796a,Hawaii,44,Oʻahu,6/25/2023,8:00:00 AM,2023-06-25T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,76,Sunny,TRUE,incoming,<1 ft,25,E,<,10,,,,,,,,,,,,,,,2023-06-27T09:32:08.471Z
+c11b286a-1ae4-4bdd-9f9d-807f194f0b2a,Google_117941694820731963023,Hawaii,44,Oʻahu,6/11/2023,8:00:00 AM,2023-06-11T18:00:00.000Z,Christian Squire,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,76,,FALSE,incoming,,10,SE,=,10,,,,,,,,,,,,,,,2023-06-13T00:30:39.431Z
+9bae408b-bada-4c36-9264-c1b31d460a89,Google_107796448582146466088,Hawaii,44,Oʻahu,5/28/2023,8:00:00 AM,2023-05-28T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,74,Sunny,FALSE,low,<1 ft,9,E,<,10,,,,,"incoming, low tide",,,,,,,,,,2023-05-30T07:04:02.544Z
+090224d9-9fdb-496b-807d-32423c64972c,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,5/14/2023,8:00:00 AM,2023-05-14T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,76,71,Sunny,TRUE,incoming,<1 ft,16,NE,<,10,,,,,"  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,,,,,,,,,2023-05-16T04:12:18.964Z
+0bbacf03-d451-4fe0-bbb7-f1886b0c0023,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/30/2023,8:00:00 AM,2023-04-30T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,76,74,Sunny,TRUE,incoming,<1 ft,19,E,<,10,,,,,,,,,,,,,,,2023-05-02T00:35:26.194Z
+42f695a6-7ce9-499f-ac8f-9fe8caab71e0,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/16/2023,8:10:00 AM,2023-04-16T18:10:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,76,73,Sunny,FALSE,incoming,<1 ft,16,SE,=,41,,,,,,,,,,,,,,,2023-04-18T01:25:02.003Z
+7b127c3d-b320-46d3-94af-9ed2796771c2,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/2/2023,8:00:00 AM,2023-04-02T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,76,74,Overcast,TRUE,incoming,<1 ft,13,SE,=,41,,,,,,,,,,,,,,,2023-04-04T00:08:51.090Z
+626a0dd8-771c-4267-87ae-f27cdb1a896c,Google_107796448582146466088,Hawaii,44,Oʻahu,3/19/2023,8:00:00 AM,2023-03-19T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,73,Sunny,FALSE,low,<1 ft,5,S,=,75,,,,,"incoming, low tide.
+",,,,,,,,,,2023-03-21T08:52:16.312Z
+3746233c-501d-43a1-9172-58f0e8994e09,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,3/5/2023,7:55:00 AM,2023-03-05T17:55:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,75,69,Partly_Cloudy,TRUE,outgoing,<1 ft,4,SE,=,41,,,,,,,,,,,,,,,2023-03-07T08:11:34.081Z
+dab15d0e-e019-4c9c-9b4f-774c35a27651,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,2/19/2023,6:55:00 AM,2023-02-19T16:55:00.000Z,Christina Comfort,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,76,65,Partly_Cloudy,TRUE,outgoing,<1 ft,3,E,=,10,,,,,,,,,,,,,,,2023-02-21T05:53:00.463Z
+15b9f1d6-4f7b-4be7-8530-9394731df6ec,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,1/8/2023,8:00:00 AM,2023-01-08T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,72,Sunny,FALSE,outgoing,<1 ft,5,NE,<,10,,,,,,,38.3,,,,,,,,2023-01-10T02:29:41.342Z
+ea8be44e-a25b-463d-8ac0-6cce1d1c60c0,Google_107796448582146466088,Hawaii,44,Oʻahu,12/11/2022,8:00:00 AM,2022-12-11T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,75,Partly_Cloudy,TRUE,outgoing,<1 ft,23,E,=,20,,,,,"outgoing, medium tide
+",,37.2,,,,,,,,2022-12-13T08:24:34.294Z
+5049f8c2-e978-4f41-a06a-74cb79763330,Google_107796448582146466088,Hawaii,44,Oʻahu,11/27/2022,8:30:00 AM,2022-11-27T18:30:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,78,73,Sunny,FALSE,high,1-2 ft,7,E,=,988,,,,,"
+outgoing, high tide.  ",,37.3,,,,,,,,2022-11-29T07:41:36.209Z
+60913daf-3236-419f-8a37-388d89af24af,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,11/13/2022,8:00:00 AM,2022-11-13T18:00:00.000Z,Luca Caniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,80,76,Partly_Cloudy,TRUE,high,1-2 ft,19,NE,=,171.00,,,,,Waves are getting high,,37.0,,,,,,,,2022-11-15T05:47:01.192Z
+34d692e1-8caa-411f-973b-fd0d01d8a9af,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/30/2022,8:10:00 AM,2022-10-30T18:10:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,80,78,Sunny,TRUE,high,<1 ft,17,NE,=,52.0,,,,,,,36.7,,,,,,,,2022-11-01T01:57:10.380Z
+68061227-c40e-4fdb-8954-c9b208f5a6da,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/16/2022,8:00:00 AM,2022-10-16T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,80,77,Partly_Cloudy,FALSE,high,<1 ft,16,NE,<,10.0,,,,,,,36.7,,,,,,,,2022-10-18T02:54:25.489Z
+26578fa2-cccb-468e-bb69-0681228d6eba,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,10/2/2022,8:15:00 AM,2022-10-02T18:15:00.000Z,Christina Comfort,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,80,72,Light_Rain,TRUE,high,<1 ft,9,NE,=,754.0,,,,,Waves flushing the tide pools. 6' waves on the outside,,36.1,,,,,,,,2022-10-04T03:18:11.633Z
+a4a1f388-cf2c-45bf-9d5e-65eae1450268,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,9/18/2022,8:10:00 AM,2022-09-18T18:10:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,81,78,Partly_Cloudy,TRUE,high,<1 ft,16,SE,<,10,,,,,,,35.4,,,,,,,,2022-09-20T20:49:39.768Z
+62a419f6-0046-40b8-811f-3b6065c367f3,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,8/21/2022,8:05:00 AM,2022-08-21T18:05:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,81,77,Sunny,FALSE,incoming,<1 ft,17,NE,=,161,,,,,,,35.9,,,,,,,,2022-08-23T02:11:01.439Z
+bbaabf60-d8bf-46da-bbb7-e347a361229d,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,7/24/2022,8:05:00 AM,2022-07-24T18:05:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,76,Sunny,TRUE,incoming,<1 ft,18,E,=,1246.0,,,,,,,25.5,,,,,,,,2022-07-26T02:37:05.780Z
+4e7f7d71-630e-43f8-9385-1782ce288a3b,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,7/10/2022,8:20:00 AM,2022-07-10T18:20:00.000Z,Christina Comfort,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,78,77,Partly_Cloudy,TRUE,incoming,<1 ft,12,NE,=,1529.0,,,,,,,,,,,,,,,2022-07-12T02:55:44.738Z
+19963ef4-acad-4c5b-b2a4-4af1a0359b3e,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/26/2022,8:00:00 AM,2022-06-26T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,78,75,Sunny,FALSE,low,<1 ft,16,E,<,10,,,,,,,26.2,,,,,,,,2022-06-28T04:00:06.672Z
+cfcee268-6f34-43c8-ab70-af32c7f569e8,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,6/12/2022,9:00:00 AM,2022-06-12T19:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,78,76,Sunny,TRUE,incoming,<1 ft,21,E,<,10,,,,,,,27.1,,,,,,,,2022-06-14T03:05:30.958Z
+8ca0a282-ca5d-43f0-9075-9c4922554638,Google_107796448582146466088,Hawaii,44,Oʻahu,5/29/2022,8:00:00 AM,2022-05-29T18:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,78,74,Overcast,TRUE,low,<1 ft,12,E,=,132,,,,,"Incoming, low tide.  ",,35.4,,,,,,,,2022-05-31T07:52:25.208Z
+25345661-83fc-4deb-b77f-b29f6f1fb9b7,Google_107796448582146466088,Hawaii,44,Oʻahu,5/15/2022,7:55:00 AM,2022-05-15T17:55:00.000Z,Luca cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,74,Sunny,FALSE,low,<1 ft,19,E,<,10,,,,,Incoming low tide,,31.5,,,,,,,,2022-05-17T02:04:00.346Z
+208ac2ee-6e1f-4b54-8428-cd5484e8afdc,Google_107796448582146466088,Hawaii,44,Oʻahu,5/1/2022,8:00:00 AM,2022-05-01T18:00:00.000Z,Christina Comfort,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,78,72,Overcast,TRUE,low,<1 ft,14,NE,<,10,,,,,"incoming, low tide.  ",,35.9,,,,,,,,2022-05-03T08:09:39.437Z
+5a182362-a041-47fd-8a22-a8c3a7142601,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,4/18/2022,9:00:00 AM,2022-04-18T19:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,73,Sunny,TRUE,low,<1 ft,5,NE,=,10.0,,,,,,,36.4,,,,,,,,2022-04-19T00:17:57.326Z
+ceba4c02-31e2-4a5b-b88a-73713f97ebd6,Google_107796448582146466088,Hawaii,44,Oʻahu,4/3/2022,8:55:00 AM,2022-04-03T18:55:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,76,74,Sunny,TRUE,low,<1 ft,26,E,=,20,,,,,"outgoing, low tide. ",,36.6,,,,,,,,2022-04-05T07:00:03.643Z
+f994d5cc-5107-47e1-83d5-2bc6153cd98c,Google_107796448582146466088,Hawaii,44,Oʻahu,3/6/2022,9:00:00 AM,2022-03-06T19:00:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,71,Sunny,FALSE,outgoing,<1 ft,10,SE,=,41,,,,,"outgoing, medium tide. ",,36.3,,,,,,,,2022-03-08T08:52:14.737Z
+a55a10da-3cb8-42cc-8192-e20cd3151db1,Google_107796448582146466088,Hawaii,44,Oʻahu,2/20/2022,6:25:00 AM,2022-02-20T16:25:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,72,Partly_Cloudy,TRUE,outgoing,<1 ft,12,NE,=,61,,,,,"outgoing, medium tide",,37.1,,,,,,,,2022-02-22T07:26:13.905Z
+845c30d3-5883-407a-8fd7-82c390446b3d,Google_107796448582146466088,Hawaii,44,Oʻahu,2/6/2022,7:10:00 AM,2022-02-06T17:10:00.000Z,Luca C. ,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,73,Light_Rain,TRUE,outgoing,2-4 ft,17,E,=,10,,,,,,,36.0,,,,,,,,2022-02-08T07:23:44.860Z
+a3f603f6-2e4a-40c9-a4b0-0ef1b32e102e,Google_107796448582146466088,Hawaii,44,Oʻahu,1/23/2022,9:15:00 AM,2022-01-23T19:15:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,73,Sunny,FALSE,high,1-2 ft,13,E,=,30.,,,,,,,36.2,,,,,,,,2022-01-25T07:00:06.599Z
+cac0a484-f42f-4ba3-8b22-7e5f80d353bf,Google_107796448582146466088,Hawaii,44,Oʻahu,12/26/2021,7:55:00 AM,2021-12-26T17:55:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,75,73,Partly_Cloudy,TRUE,high,<1 ft,21,E,=,31,,,,,"outgoing, high tide",,33.2,,,,,,,,2021-12-28T06:44:50.355Z
+080a3c90-c3a0-4dee-94b4-41c58bd7cd1e,717504ff-6cc2-4106-a2da-7f3d3ed6a4c5,Hawaii,44,Oʻahu,12/12/2021,7:50:00 AM,2021-12-12T17:50:00.000Z,Luca Curibeati,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,75,Sunny,TRUE,incoming,<1 ft,22,E,<,10,,,,,"UV light broke, delay in reading results",,35.7,,,,,,,,2021-12-15T06:50:04.831Z
+165da04f-9df5-471c-affc-e02be611cb65,Google_107796448582146466088,Hawaii,44,Oʻahu,11/28/2021,8:00:00 AM,2021-11-28T18:00:00.000Z,Luca Cunibeati,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,75,Sunny,TRUE,incoming,<1 ft,15,NE,<,10,,,,,"incoming, medium tide",,33.0,,,,,,,,2021-11-30T07:53:43.703Z
+ff4de41e-2521-4864-bd21-f16982b26c00,Google_107796448582146466088,Hawaii,44,Oʻahu,11/14/2021,9:10:00 AM,2021-11-14T19:10:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,68,Partly_Cloudy,FALSE,incoming,<1 ft,5,NE,<,10,,,,,"incoming, medium tide",,34.3,,,,,,,,2021-11-17T06:53:55.390Z
+7547858b-6049-47d5-8920-90b0f9033ac9,Google_107796448582146466088,Hawaii,44,Oʻahu,10/31/2021,8:00:00 AM,2021-10-31T18:00:00.000Z,Luca Cunibertis,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,high,<1 ft,,,=,10.,,,,,"incoming, high tide. ",,34.4,,,,,,,,2021-11-05T03:26:01.343Z
+d9dd6036-b91a-44ad-9f1b-27880babcbce,Google_107796448582146466088,Hawaii,44,Oʻahu,10/17/2021,8:10:00 AM,2021-10-17T18:10:00.000Z,Luca cuneati,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,low,,,,=,10.,,,,,"outgoing, low",,33.2,,,,,,,,2021-10-21T08:03:07.432Z
+9ae81adc-17be-4477-bfba-b28ef4c37c1d,Google_107796448582146466088,Hawaii,44,Oʻahu,10/3/2021,8:45:00 AM,2021-10-03T18:45:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Light_Rain,TRUE,,<1 ft,,,=,108.,,,,,"Incoming, low tide. ",,33.5,,,,,,,,2021-10-07T08:00:54.989Z
+0c31d6a7-d53b-4197-a69a-39c63391bff2,Google_107796448582146466088,Hawaii,44,Oʻahu,9/19/2021,8:05:00 AM,2021-09-19T18:05:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Overcast,TRUE,low,<1 ft,,,=,41.,,,,,"incoming, low tide.",,31.3,,,,,,,,2021-09-22T07:17:06.012Z
+9e715d40-a420-4214-922e-92459ced0de5,Google_107796448582146466088,Hawaii,44,Oʻahu,9/5/2021,8:00:00 AM,2021-09-05T18:00:00.000Z,Christina Comfort,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,71,Sunny,TRUE,low,<1 ft,6,NE,<,10,,,,,"incoming, low tide.  ",,27.4,,,,,,,,2021-09-08T13:58:20.823Z
+5eab5c2b-ae2f-46e1-98b6-52059d06ef1d,Google_107796448582146466088,Hawaii,44,Oʻahu,8/22/2021,8:35:00 AM,2021-08-22T18:35:00.000Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,FALSE,low,<1 ft,,,=,31.,,,,,"outgoing, low tide",,29.7,,,,,,,,2021-08-24T07:47:34.179Z
+2a481ee4-d926-4cd9-b281-a256d24690ad,Google_107796448582146466088,Hawaii,44,Oʻahu,8/8/2021,7:40:00 AM,2021-08-08T17:40:00.000Z,Lua Culiberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,73,Sunny,FALSE,low,<1 ft,5,,<,10,,,,,"outgoing, low tide",,20.3,,,,,,,,2021-08-10T08:24:16.657Z
+83906834-e507-4b64-bb63-4be0a5ce8cf8,Google_107796448582146466088,Hawaii,44,Oʻahu,7/25/2021,7:30:00 AM,2021-07-25T17:30:00.000Z,Martina,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Light_Rain,TRUE,incoming,<1 ft,,,<,10,,,,,"incoming, low tide",,28.8,,,,,,,,2021-07-27T08:51:20.158Z
+7f371ad7-342c-47b0-8a45-9c7eacc6d955,Google_107796448582146466088,Hawaii,44,Oʻahu,6/13/2021,9:00:00 AM,2021-06-13T19:00:00.000Z,Pam Lovett,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Overcast,TRUE,incoming,<1 ft,,,<,10,,,,,,,26.4,,,,,,,,2021-06-16T06:59:01.827Z
+8a43e10a-b789-484b-9788-a21164de1515,Google_114007869303751566145,Hawaii,44,Oʻahu,5/30/2021,7:45:00 AM,2021-05-30T17:45:00.000Z,Luca C,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,,,,,=,10,,,,,,,,,,,,,,,2021-06-01T16:45:44.452Z
+f693bfbc-8584-4a03-9a74-04eb561d48c8,Google_114007869303751566145,Hawaii,44,Oʻahu,5/16/2021,8:40:00 AM,2021-05-16T18:40:00.000Z,L. Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,75,Partly_Cloudy,TRUE,outgoing,1-2 ft,,,<,10,,,,,low tide,,,,,,,,,,2021-05-18T16:48:20.655Z
+332a59bd-de04-449f-9354-5c89cd1d4ba3,Google_114007869303751566145,Hawaii,44,Oʻahu,5/2/2021,8:00:00 AM,2021-05-02T18:00:00.000Z,L. Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Overcast,TRUE,incoming,<1 ft,,,<,10,,,,,low tide,,,,,,,,,,2021-05-04T05:22:24.365Z
+b35ce843-a47c-48c1-9276-b0dad9a0b626,Google_114007869303751566145,Hawaii,44,Oʻahu,4/18/2021,9:00:00 AM,2021-04-18T19:00:00.000Z,L. Cunibarti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,outgoing,<1 ft,5,,=,20,,,,, ,,,,,,,,,,2021-04-20T05:48:58.891Z
+00c955d3-b3af-4da8-a6f6-313ec5523789,Google_114007869303751566145,Hawaii,44,Oʻahu,4/4/2021,8:00:00 AM,2021-04-04T18:00:00.000Z,L. Cunniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Light_Rain,TRUE,low,<1 ft,,,<,10,,,,,,,,,,,,,,,2021-04-06T03:56:02.560Z
+6a7c9355-ade8-4d10-b471-80046fd92b4f,Google_114007869303751566145,Hawaii,44,Oʻahu,3/21/2021,8:00:00 AM,2021-03-21T18:00:00.000Z,L. Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Overcast,TRUE,low,<1 ft,,,=,20,,,,,,,,,,,,,,,2021-03-23T06:44:47.115Z
+d7300bdf-073a-4e5f-a89f-87fa9a699281,Google_114007869303751566145,Hawaii,44,Oʻahu,3/7/2021,8:30:00 AM,2021-03-07T18:30:00.000Z,L.C. ,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,TRUE,low,<1 ft,,,<,10,,,,,,,,,,,,,,,2021-03-09T06:26:27.005Z
+b44c92a0-a575-4388-9f7d-552b8399bf2f,Google_114007869303751566145,Hawaii,44,Oʻahu,2/21/2021,8:00:00 AM,2021-02-21T18:00:00.000Z,Luca C. ,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,75,72,Light_Rain,TRUE,low,<1 ft,,,=,74,,,,,,,,,,,,,,,2021-02-23T07:02:49.907Z
+e71165f3-47a0-4977-9711-6643faaf08b4,Google_114007869303751566145,Hawaii,44,Oʻahu,2/7/2021,7:00:00 AM,2021-02-07T17:00:00.000Z,L. C.,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,74,Sunny,TRUE,outgoing,1-2 ft,2,NE,=,10462,,,,,,,,,,,,,,,2021-02-09T05:43:11.215Z
+534eb950-ab2f-4b14-9eb6-fed572c515b8,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,1/24/2021,7:30:00 AM,2021-01-24T17:30:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,78,,Partly_Cloudy,TRUE,low,1-2 ft,,,=,20,,,,,,,,,,,,,,,2021-01-26T04:04:14.951Z
+8c9d9bfb-7ff2-47dc-89c1-acb9066a1ffe,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,1/10/2021,8:00:00 AM,2021-01-10T18:00:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,77,78,Sunny,,,1-2 ft,,,=,85,,,,,,,,,,,,,,,2021-01-12T01:46:32.816Z
+c75825cf-4491-4f33-90e2-db9a166fd733,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,12/27/2020,8:00:00 AM,2020-12-27T18:00:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,75,Partly_Cloudy,TRUE,low,<1 ft,,,<,10,,,,,salinity 34.6 ppt,,,,,,,,,,2020-12-29T06:11:04.275Z
+bf9ac976-541a-489c-8154-363e50683545,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,11/29/2020,8:00:00 AM,2020-11-29T18:00:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,79,75,Partly_Cloudy,TRUE,outgoing,<1 ft,10,NE,,10,,,,,negative control  for sample set on 11/29/20 showed 1 positive large well = to 10cfu/100mL,,,,,,,,,,2020-12-01T04:09:21.493Z
+81ef0a36-11d1-409c-84bc-a42b5ff28235,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,11/15/2020,8:00:00 AM,2020-11-15T18:00:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,81,75,Sunny,TRUE,outgoing,<1 ft,,,=,74,,,,,,,,,,,,,,,2020-11-17T04:30:05.334Z
+10d7f9fd-01d3-4b55-a5a6-12eb4d5addc5,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,10/18/2020,8:00:00 AM,2020-10-18T18:00:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,82,80,Partly_Cloudy,TRUE,incoming,<1 ft,,,<,10,,,,,,,,,,,,,,,2020-10-20T04:33:47.326Z
+8d3db0c9-4fb7-4245-846c-706d57751974,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,10/4/2020,8:00:00 AM,2020-10-04T18:00:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,81,79,Partly_Cloudy,TRUE,outgoing,<1 ft,,,=,160,,,,,,,,,,,,,,,2020-10-06T05:49:06.975Z
+68a2e529-2983-4bba-8001-8ec2ceb24b88,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,9/20/2020,7:50:00 AM,2020-09-20T17:50:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,81,80,Partly_Cloudy,TRUE,outgoing,<1 ft,,NE,<,10,,,,,,,,,,,,,,,2020-09-22T05:18:43.831Z
+387e09b7-ce6f-432d-ab74-a9812c775f95,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,9/6/2020,7:30:00 AM,2020-09-06T17:30:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,81,77,Partly_Cloudy,,outgoing,<1 ft,,NE,<,10,,,,,,,,,,,,,,,2020-09-08T16:29:53.341Z
+4ab4a046-fa2d-4221-b5c8-63c65e95a7bb,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,8/23/2020,8:01:00 AM,2020-08-23T18:01:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,81,83,Sunny,,high,<1 ft,,NE,<,10,,,,,,,,,,,,,,,2020-08-25T06:47:14.171Z
+a499dc08-b82c-4c79-bda7-3c3ffce96905,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,8/9/2020,7:45:00 AM,2020-08-09T17:45:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,,TRUE,,<1 ft,,,<,10,,,,,,,,,,,,,,,2020-08-11T06:40:47.310Z
+18587c28-21f0-47fd-9501-2bbaebd2a0df,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,7/12/2020,7:30:00 AM,2020-07-12T17:30:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Sunny,,incoming,<1 ft,,E,=,233,,,,,,,,,,,,,,,2020-07-15T04:18:45.430Z
+80f627ed-5e27-4f70-96ff-d67d79bc47e6,us-west-2:fcadde7c-175e-4806-9e6d-3412e9dd865f,Hawaii,44,Oʻahu,3/15/2020,9:15:00 AM,2020-03-15T19:15:00.000Z,Oahu BWTF,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Light_Rain,TRUE,outgoing,<1 ft,,SE,=,10,,,,,outgoing tide,,,,,,,,,,2020-03-17T19:39:55.741Z
+553114952,Import from legacy BWTF database,Hawaii,44,Oʻahu,3/1/2020,8:30:00 AM,2020-03-01T18:30:00Z,Luca C. ,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Partly_Cloudy,TRUE,high,0.5 ft,,,<,10,,,,,"9:00am
+outgoing tide
+light wind",,,,,,,,,,2020-03-09T18:48:49.000Z
+553114573,Import from legacy BWTF database,Hawaii,44,Oʻahu,2/16/2020,8:30:00 AM,2020-02-16T18:30:00Z,Luca. C,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Sunny,FALSE,medium,0.5 ft,,,=,10,,,,,"8:30am
+incoming tide
+Light wind",,,,,,,,,,2020-03-09T18:48:46.000Z
+553113950,Import from legacy BWTF database,Hawaii,44,Oʻahu,1/19/2020,8:30:00 AM,2020-01-19T18:30:00Z,Luca C.,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Overcast,FALSE,high,0.5 ft,,,<,10,,,,,"8:30am
+incoming tide
+light NE wind",,,,,,,,,,2020-03-09T18:48:43.000Z
+553113286,Import from legacy BWTF database,Hawaii,44,Oʻahu,12/15/2019,8:30:00 AM,2019-12-15T18:30:00Z,Luca C.,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Partly_Cloudy,TRUE,high,0.5 ft,,,<,10,,,,,"8:20am
+outgoing tide
+calm wind",,,,,,,,,,2020-03-09T18:48:39.000Z
+553112854,Import from legacy BWTF database,Hawaii,44,Oʻahu,12/1/2019,8:30:00 AM,2019-12-01T18:30:00Z,Luca,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Light_Rain,TRUE,medium,2-3 ft,,,=,122,,,,,"8:15am
+outgoing tide
+moderate ENE wind",,,,,,,,,,2020-03-09T18:48:36.000Z
+553112157,Import from legacy BWTF database,Hawaii,44,Oʻahu,11/3/2019,8:30:00 AM,2019-11-03T18:30:00Z,Luca C. ,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Sunny,FALSE,high,0.5 ft,,,=,10,,,,,"8:30am
+outgoing tide
+calm wind",,,,,,,,,,2020-03-09T18:48:32.000Z
+553111211,Import from legacy BWTF database,Hawaii,44,Oʻahu,9/30/2019,8:30:00 AM,2019-09-30T18:30:00Z,Luca C.,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,85,Sunny,TRUE,low,0.5 ft,,,<,10,,,,,"8:25am
+incoming tide
+calm winds",,,,,,,,,,2020-03-09T18:48:27.000Z
+553110700,Import from legacy BWTF database,Hawaii,44,Oʻahu,9/8/2019,8:30:00 AM,2019-09-08T18:30:00Z,L. Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Partly_Cloudy,TRUE,low,0.5 ft,,,=,20,,,,,"8:30am
+Incoming tide
+Light NE wind",,,,,,,,,,2020-03-09T18:47:13.000Z
+553110443,Import from legacy BWTF database,Hawaii,44,Oʻahu,8/25/2019,8:30:00 AM,2019-08-25T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,TRUE,medium,0.5 ft,,,=,10,,,,,"Incoming tide, 8:50am, light trade wind",,,,,,,,,,2020-03-09T18:47:11.000Z
+553109392,Import from legacy BWTF database,Hawaii,44,Oʻahu,6/30/2019,8:30:00 AM,2019-06-30T18:30:00Z,CC,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,TRUE,medium,0.5 ft,,,=,20,,,,,"Time: 8:43am, Incoming Tide, South Eastern wind direction, overflow positive ",,,,,,,,,,2020-03-09T18:47:05.000Z
+553109104,Import from legacy BWTF database,Hawaii,44,Oʻahu,6/16/2019,8:30:00 AM,2019-06-16T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,FALSE,low,0.5 ft,,,<,10,,,,,"8:45am, incoming",,,,,,,,,,2020-03-09T18:47:04.000Z
+553108737,Import from legacy BWTF database,Hawaii,44,Oʻahu,5/26/2019,9:30:00 AM,2019-05-26T19:30:00Z,Christina Comfort ,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,FALSE,high,0.5 ft,,,=,235,,,,,"Incoming, 9:15 am",,,,,,,,,,2020-03-09T18:47:02.000Z
+553108057,Import from legacy BWTF database,Hawaii,44,Oʻahu,4/28/2019,9:30:00 AM,2019-04-28T19:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,FALSE,low,0.5 ft,,,<,10,,,,,"Incoming tide, 9:00am, calm wind",,,,,,,,,,2020-03-09T18:46:58.000Z
+553107793,Import from legacy BWTF database,Hawaii,44,Oʻahu,4/7/2019,8:30:00 AM,2019-04-07T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,low,0.5 ft,,,=,20,,,,,"Outgoing tide, calm wind",,,,,,,,,,2020-03-09T18:46:56.000Z
+553107350,Import from legacy BWTF database,Hawaii,44,Oʻahu,3/24/2019,8:30:00 AM,2019-03-24T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,FALSE,low,0.5 ft,,,=,10,,,,,"Outoging tide, 8:30am",,,,,,,,,,2020-03-09T18:46:54.000Z
+553107038,Import from legacy BWTF database,Hawaii,44,Oʻahu,3/10/2019,8:30:00 AM,2019-03-10T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Light_Rain,TRUE,medium,6-8 ft,,,<,10,,,,,"8:45am, outgoing tide, light E wind.",,,,,,,,,,2020-03-09T18:46:52.000Z
+553106779,Import from legacy BWTF database,Hawaii,44,Oʻahu,2/24/2019,8:30:00 AM,2019-02-24T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,medium,0.5 ft,,,=,10,,,,,"8:30am, outgoing tide, calm wind",,,,,,,,,,2020-03-09T18:46:50.000Z
+553106727,Import from legacy BWTF database,Hawaii,44,Oʻahu,1/27/2019,8:30:00 AM,2019-01-27T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,65,Sunny,FALSE,high,6-8 ft,,,=,10,,,,,"8:30, outgoing tide, light NE winds",,,,,,,,,,2020-03-09T18:46:50.000Z
+553104830,Import from legacy BWTF database,Hawaii,44,Oʻahu,11/25/2018,8:30:00 AM,2018-11-25T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Sunny,FALSE,medium,1-2 ft,,,=,52,,,,,"outgoing. Tide says low on sheet, but chart says mid. 8:45 AM. Glass bottle.",,,,,,,,,,2020-03-09T18:46:39.000Z
+553104539,Import from legacy BWTF database,Hawaii,44,Oʻahu,11/11/2018,8:30:00 AM,2018-11-11T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,TRUE,medium,0.5 ft,,,<,10,,,,,"Flat in tidepools, 4-6 ft outside. 8:45 AM. Outgoing tide. Tide says High on sheet but it was mid.",,,,,,,,,,2020-03-09T18:46:38.000Z
+553104088,Import from legacy BWTF database,Hawaii,44,Oʻahu,10/21/2018,9:30:00 AM,2018-10-21T19:30:00Z,Luca C,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,medium,,,,=,52,,,,, ,,,,,,,,,,2020-03-09T18:46:35.000Z
+553103946,Import from legacy BWTF database,Hawaii,44,Oʻahu,10/7/2018,8:30:00 AM,2018-10-07T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Light_Rain,TRUE,low,0.5 ft,,,=,495,,,,,"Incoming, 8:45AM",,,,,,,,,,2020-03-09T18:46:34.000Z
+553103524,Import from legacy BWTF database,Hawaii,44,Oʻahu,9/23/2018,9:30:00 AM,2018-09-23T19:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,low,0.5 ft,,,<,10,,,,,"Collection Time: 9:40 am
+Tide Flow: Incoming",,,,,,,,,,2020-03-09T18:46:32.000Z
+553103337,Import from legacy BWTF database,Hawaii,44,Oʻahu,9/9/2018,8:30:00 AM,2018-09-09T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,FALSE,low,0.5 ft,,,=,816,,,,,"Incoming, dirty looking water",,,,,,,,,,2020-03-09T18:46:31.000Z
+553102774,Import from legacy BWTF database,Hawaii,44,Oʻahu,8/5/2018,8:30:00 AM,2018-08-05T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Partly_Cloudy,FALSE,medium,0.5 ft,,,=,313,,,,,"incoming, 8:45 AM, duplicates 175 and 450. ",,,,,,,,,,2020-03-09T18:46:27.000Z
+553102382,Import from legacy BWTF database,Hawaii,44,Oʻahu,7/22/2018,8:30:00 AM,2018-07-22T18:30:00Z,Luca Cunibenzi,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,TRUE,low,0.5 ft,,,<,10,,,,,"Time: 8:40am
+Tide: Incoming",,,,,,,,,,2020-03-09T18:46:25.000Z
+553102135,Import from legacy BWTF database,Hawaii,44,Oʻahu,7/8/2018,9:30:00 AM,2018-07-08T19:30:00Z,Christina Comfort,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Partly_Cloudy,TRUE,high,0.5 ft,,,=,80,,,,,incoming,,,,,,,,,,2020-03-09T18:46:24.000Z
+553101840,Import from legacy BWTF database,Hawaii,44,Oʻahu,6/24/2018,8:30:00 AM,2018-06-24T18:30:00Z,Harvy King,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Overcast,TRUE,low,0.5 ft,,,<,10,,,,, ,,,,,,,,,,2020-03-09T18:46:22.000Z
+553101702,Import from legacy BWTF database,Hawaii,44,Oʻahu,6/12/2018,4:30:00 PM,2018-06-13T02:30:00Z,Anandi,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,85,Partly_Cloudy,TRUE,high,0.5 ft,,,=,41,,,,, ,,,,,,,,,,2020-03-09T18:46:21.000Z
+553100983,Import from legacy BWTF database,Hawaii,44,Oʻahu,5/6/2018,8:30:00 AM,2018-05-06T18:30:00Z,Luca Cuniberti,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,Sunny,TRUE,high,0.5 ft,,,<,10,,,,, ,,,,,,,,,,2020-03-09T18:46:17.000Z
+553100700,Import from legacy BWTF database,Hawaii,44,Oʻahu,4/21/2018,9:30:00 AM,2018-04-21T19:30:00Z,Luca ,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,,TRUE,low,,,,<,10,,,,,Duplicate sample had 10,,,,,,,,,,2020-03-09T18:46:16.000Z
+553100523,Import from legacy BWTF database,Hawaii,44,Oʻahu,4/8/2018,12:30:00 PM,2018-04-08T22:30:00Z,Luca Nestel,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,,,,,,,=,20,,,,, ,,,,,,,,,,2020-03-09T18:46:15.000Z
+553100216,Import from legacy BWTF database,Hawaii,44,Oʻahu,3/25/2018,7:30:00 AM,2018-03-25T17:30:00Z,Lika Grace,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,,,,,,,,<,10,,,,, ,,,,,,,,,,2020-03-09T18:45:40.000Z
+553100196,Import from legacy BWTF database,Hawaii,44,Oʻahu,3/11/2018,9:30:00 AM,2018-03-11T19:30:00Z,Christina Comfort,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,,75,Partly_Cloudy,FALSE,high,,,,=,281,,,,, ,,,,,,,,,,2020-03-09T18:45:39.000Z
+553100187,Import from legacy BWTF database,Hawaii,44,Oʻahu,2/21/2018,8:30:00 AM,2018-02-21T18:30:00Z,Christina Comfort,780,North Oʻahu: Pūpūkea tidepools,21.649846,-158.062988,73,65,Sunny,FALSE,medium,0.5 ft,,,<,10,,,,, ,,,,,,,,,,2020-03-09T18:45:39.000Z
